@@ -41,7 +41,7 @@ The complexity of this scraping approach depends on whether the website dynamica
 
 :rotating_light: **A Solution Appears:** I found a [github project](https://github.com/PokemonTCG/pokemon-tcg-data/tree/master) called Pokemon TCG Data which makes a huge set of card data available through a free API. The rate limit is 20,000 requests/day if using an authenticated token and 1000/day otherwise. The API currently supports Sets, Cards and all of the supporting attribute data like energy types, card supertypes, etc. The API in its version 2 is well documented too! This will be the primary source of data for this project.
 
-⚠️ **API Version Change 2 ▶️ 3**: At some point in the future (as of 03/30/2025), the API developer will be updating the schemas returned by the API to enrich the pricing data and fix older issues. This presents a great opportunity to actively handle upstream changes in the data sources within the data pipeline built here.
+⚠️ **API Version Change 2 --> 3**: At some point in the future (as of 03/30/2025), the API developer will be updating the schemas returned by the API to enrich the pricing data and fix older issues. This presents a great opportunity to actively handle upstream changes in the data sources within the data pipeline built here.
 
 ### Data Source Summary:
 - Pokemon TCG API: [Cards, Sets & Prices](https://docs.pokemontcg.io/)
