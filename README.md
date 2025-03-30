@@ -39,7 +39,14 @@ The answer to this question is almost certainly to *use an API*, though it depen
 
 The complexity of this scraping approach depends on whether the website dynamically serves the content or statically serves the content. A dynamic website needs [`Selenium`](https://selenium-python.readthedocs.io/), a Python library for headless running a browser user-agent. A lower effort solution of `BeautifulSoup` and `requests` Python libraries would wokr if the site serves static content. In either case, the stability of the scraper depends on the front-end HTML structure. Changes to the user interface on the website risks crashing the scraper and potentially lost data during the HTML re-parsing.
 
-**A Solution Appears:** 
+**A Solution Appears:** I found a [github project](https://github.com/PokemonTCG/pokemon-tcg-data/tree/master) called Pokemon TCG Data which makes a huge set of card data available through a free API. The rate limit is 20,000 requests/day if using an authenticated token and 1000/day otherwise. The API currently supports Sets, Cards and all of the supporting attribute data like energy types, card supertypes, etc. The API in its version 2 is well documented too! This will be the primary source of data for this project.
+
+⚠️ **API Version Change 2 ▶️ 3**: At some point in the future (as of 03/30/2025), the API developer will be updating the schemas returned by the API to enrich the pricing data and fix older issues. This presents a great opportunity to actively handle upstream changes in the data sources within the data pipeline built here.
+
+### Data Source Summary:
+- Pokemon TCG API: [Cards, Sets & Prices](https://docs.pokemontcg.io/)
+- LimitlessTCG (Scraper): [Pokemon Deck Lists](https://limitlesstcg.com/decks/lists)
+- TCG Player (Scraper/Manual): [Set Pull Rates](https://infinite.tcgplayer.com/article/Pok%C3%A9mon-TCG-Prismatic-Evolutions-Pull-Rates/d94889ea-f76a-4a13-b74d-5b0b071220a7/)
 
 ## 2b. Load Process
 
@@ -48,6 +55,9 @@ The complexity of this scraping approach depends on whether the website dynamica
 ## 2d. Orchestration
 
 
+### Parking Lot for References:
+- Pull rates [general pack rates](https://support.pokemon.com/hc/en-us/articles/360000981613-What-can-I-expect-in-a-Pok%C3%A9mon-Trading-Card-Game-booster-pack) [example set pull rate sampling](https://infinite.tcgplayer.com/article/Pok%C3%A9mon-TCG-Prismatic-Evolutions-Pull-Rates/d94889ea-f76a-4a13-b74d-5b0b071220a7/)
+- Markdown [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) [Mermaid Diagrams](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
 
 
 
