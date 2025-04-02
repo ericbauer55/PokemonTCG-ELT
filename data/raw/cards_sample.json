@@ -1,0 +1,146 @@
+{
+    "pulled_on": "01/04/2025 22:16:15",
+    "count": 1,
+    "data": [
+        {
+            "abilities": null,
+            "artist": "Kagemaru Himeno",
+            "ancientTrait": null,
+            "attacks": [
+                {
+                    "name": "Second Strike",
+                    "cost": [
+                        "Metal",
+                        "Metal",
+                        "Colorless"
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "40",
+                    "text": "If the Defending Pok\u00e9mon already has any damage counters on it, this attack does 40 damage plus 40 more damage."
+                },
+                {
+                    "name": "Guard Claw",
+                    "cost": [
+                        "Metal",
+                        "Metal",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "60",
+                    "text": "During your opponent's next turn, any damage done to Aggron by attacks is reduced by 20 (after applying Weakness and Resistance)."
+                }
+            ],
+            "cardmarket": {
+                "url": "https://prices.pokemontcg.io/cardmarket/hgss4-1",
+                "updatedAt": "2025/04/01",
+                "prices": {
+                    "averageSellPrice": 1.43,
+                    "lowPrice": 0.4,
+                    "trendPrice": 1.47,
+                    "germanProLow": 0.0,
+                    "suggestedPrice": 0.0,
+                    "reverseHoloSell": 4.88,
+                    "reverseHoloLow": 0.85,
+                    "reverseHoloTrend": 4.42,
+                    "lowPriceExPlus": 1.22,
+                    "avg1": 1.5,
+                    "avg7": 1.76,
+                    "avg30": 2.24,
+                    "reverseHoloAvg1": 1.5,
+                    "reverseHoloAvg7": 4.36,
+                    "reverseHoloAvg30": 3.48
+                }
+            },
+            "convertedRetreatCost": 4,
+            "evolvesFrom": "Lairon",
+            "flavorText": "You can tell its age by the length of its iron horns. It claims an entire mountain as its territory.",
+            "hp": "140",
+            "id": "hgss4-1",
+            "images": {
+                "small": "https://images.pokemontcg.io/hgss4/1.png",
+                "large": "https://images.pokemontcg.io/hgss4/1_hires.png"
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "regulationMark": null,
+            "name": "Aggron",
+            "nationalPokedexNumbers": [
+                306
+            ],
+            "number": "1",
+            "rarity": "Rare Holo",
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-20"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ],
+            "rules": null,
+            "set": {
+                "id": "hgss4",
+                "images": {
+                    "symbol": "https://images.pokemontcg.io/hgss4/symbol.png",
+                    "logo": "https://images.pokemontcg.io/hgss4/logo.png"
+                },
+                "legalities": {
+                    "unlimited": "Legal",
+                    "expanded": null,
+                    "standard": null
+                },
+                "name": "HS\u2014Triumphant",
+                "printedTotal": 102,
+                "ptcgoCode": "TM",
+                "releaseDate": "2010/11/03",
+                "series": "HeartGold & SoulSilver",
+                "total": 103,
+                "updatedAt": "2018/03/04 10:35:00"
+            },
+            "subtypes": [
+                "Stage 2"
+            ],
+            "supertype": "Pok\u00e9mon",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-1",
+                "updatedAt": "2025/04/01",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 2.74,
+                        "high": 4.04,
+                        "market": 2.33,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 2.1,
+                        "mid": 4.0,
+                        "high": 500.0,
+                        "market": 2.35,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "types": [
+                "Metal"
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "\u00d72"
+                }
+            ]
+        }
+    ]
+}
