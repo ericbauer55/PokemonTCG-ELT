@@ -1,0 +1,1474 @@
+{
+    "pulled_on": "04/04/2025 20:57:10",
+    "count": 56,
+    "data": [
+        {
+            "name": "Turtwig",
+            "id": "dpp-DP01",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP01",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.28,
+                        "mid": 8.0,
+                        "high": 51.28,
+                        "market": 7.43,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Chimchar",
+            "id": "dpp-DP02",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP02",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.34,
+                        "mid": 3.71,
+                        "high": 6.91,
+                        "market": 4.2,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Piplup",
+            "id": "dpp-DP03",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP03",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.21,
+                        "mid": 6.35,
+                        "high": 11.99,
+                        "market": 8.07,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Pachirisu",
+            "id": "dpp-DP04",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP04",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.35,
+                        "mid": 2.9,
+                        "high": 12.99,
+                        "market": 4.28,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Tropical Wind",
+            "id": "dpp-DP05",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP05",
+                "updatedAt": "2024/01/15",
+                "prices": {
+                    "normal": {
+                        "low": 300.0,
+                        "mid": 300.0,
+                        "high": 300.0,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Buneary",
+            "id": "dpp-DP06",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP06",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.66,
+                        "mid": 2.16,
+                        "high": 4.64,
+                        "market": 3.7,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Cranidos",
+            "id": "dpp-DP07",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP07",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 4.19,
+                        "high": 6.99,
+                        "market": 4.18,
+                        "directLow": 5.37
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Shieldon",
+            "id": "dpp-DP08",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP08",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.99,
+                        "mid": 3.59,
+                        "high": 6.1,
+                        "market": 2.78,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Torterra LV.X",
+            "id": "dpp-DP09",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP09",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 12.84,
+                        "mid": 15.99,
+                        "high": 19.99,
+                        "market": 17.7,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Infernape LV.X",
+            "id": "dpp-DP10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 11.0,
+                        "mid": 22.71,
+                        "high": 89.0,
+                        "market": 26.04,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Empoleon LV.X",
+            "id": "dpp-DP11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 12.72,
+                        "mid": 17.01,
+                        "high": 4321.0,
+                        "market": 16.21,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Lucario LV.X",
+            "id": "dpp-DP12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 30.0,
+                        "mid": 38.89,
+                        "high": 65.0,
+                        "market": 34.39,
+                        "directLow": 28.57
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Buizel",
+            "id": "dpp-DP13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.45,
+                        "mid": 5.74,
+                        "high": 8.12,
+                        "market": 7.98,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Chatot",
+            "id": "dpp-DP14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.0,
+                        "mid": 12.5,
+                        "high": 32.5,
+                        "market": 13.12,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Shinx",
+            "id": "dpp-DP15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 10.0,
+                        "mid": 16.43,
+                        "high": 22.86,
+                        "market": 22.86,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Pikachu",
+            "id": "dpp-DP16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 49.99,
+                        "mid": 50.0,
+                        "high": 150.0,
+                        "market": 36.34,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Dialga LV.X",
+            "id": "dpp-DP17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.95,
+                        "mid": 19.0,
+                        "high": 20.5,
+                        "market": 16.78,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Palkia LV.X",
+            "id": "dpp-DP18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 17.78,
+                        "mid": 29.99,
+                        "high": 4321.0,
+                        "market": 20.81,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Darkrai LV.X",
+            "id": "dpp-DP19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 15.99,
+                        "mid": 23.87,
+                        "high": 44.09,
+                        "market": 28.58,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Magmortar",
+            "id": "dpp-DP20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.63,
+                        "mid": 2.92,
+                        "high": 5.0,
+                        "market": 3.27,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Raichu",
+            "id": "dpp-DP21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.49,
+                        "mid": 7.19,
+                        "high": 9.99,
+                        "market": 8.21,
+                        "directLow": 9.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Mime Jr.",
+            "id": "dpp-DP22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.25,
+                        "mid": 3.0,
+                        "high": 11.99,
+                        "market": 7.41,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Glameow",
+            "id": "dpp-DP23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.89,
+                        "mid": 2.59,
+                        "high": 4.5,
+                        "market": 2.54,
+                        "directLow": 3.59
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Darkrai",
+            "id": "dpp-DP24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.5,
+                        "mid": 5.93,
+                        "high": 18.14,
+                        "market": 11.15,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Tropical Wind",
+            "id": "dpp-DP25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP25",
+                "updatedAt": "2023/03/27",
+                "prices": null
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Dialga",
+            "id": "dpp-DP26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.95,
+                        "mid": 4.79,
+                        "high": 24.99,
+                        "market": 5.2,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Palkia",
+            "id": "dpp-DP27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 3.14,
+                        "high": 10.69,
+                        "market": 6.58,
+                        "directLow": 2.39
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Mewtwo LV.X",
+            "id": "dpp-DP28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 18.87,
+                        "mid": 25.41,
+                        "high": 32.39,
+                        "market": 32.55,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Rhyperior LV.X",
+            "id": "dpp-DP29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.93,
+                        "mid": 10.99,
+                        "high": 9999.0,
+                        "market": 13.12,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Regigigas LV.X",
+            "id": "dpp-DP30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.31,
+                        "mid": 20.34,
+                        "high": 25.14,
+                        "market": 25.12,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Heatran LV.X",
+            "id": "dpp-DP31",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP31",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 15.5,
+                        "mid": 19.99,
+                        "high": 21.97,
+                        "market": 15.96,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Magnezone",
+            "id": "dpp-DP32",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP32",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.06,
+                        "mid": 2.22,
+                        "high": 3.29,
+                        "market": 2.24,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Dusknoir",
+            "id": "dpp-DP33",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP33",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.05,
+                        "mid": 2.88,
+                        "high": 3.95,
+                        "market": 2.87,
+                        "directLow": 2.69
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Drifblim",
+            "id": "dpp-DP34",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP34",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.74,
+                        "mid": 3.79,
+                        "high": 12.59,
+                        "market": 9.8,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Porygon-Z",
+            "id": "dpp-DP35",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP35",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.99,
+                        "mid": 3.98,
+                        "high": 6.99,
+                        "market": 3.85,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Gliscor",
+            "id": "dpp-DP36",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP36",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.7,
+                        "mid": 3.43,
+                        "high": 5.37,
+                        "market": 3.48,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Dialga LV.X",
+            "id": "dpp-DP37",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP37",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 23.86,
+                        "mid": 24.6,
+                        "high": 38.83,
+                        "market": 23.88,
+                        "directLow": 13.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Giratina LV.X",
+            "id": "dpp-DP38",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP38",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 29.85,
+                        "mid": 34.79,
+                        "high": 59.99,
+                        "market": 30.02,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Shaymin LV.X",
+            "id": "dpp-DP39",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP39",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.04,
+                        "mid": 9.15,
+                        "high": 19.99,
+                        "market": 10.51,
+                        "directLow": 6.56
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Regigigas",
+            "id": "dpp-DP40",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP40",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.96,
+                        "mid": 12.5,
+                        "high": 24.99,
+                        "market": 13.47,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Toxicroak G",
+            "id": "dpp-DP41",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP41",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 44.57,
+                        "mid": 60.97,
+                        "high": 75.17,
+                        "market": 64.99,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Carnivine G",
+            "id": "dpp-DP42",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP42",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 1.99,
+                        "high": 29.99,
+                        "market": 2.66,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Probopass G",
+            "id": "dpp-DP43",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP43",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.5,
+                        "mid": 1.61,
+                        "high": 8.43,
+                        "market": 2.65,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Magnezone",
+            "id": "dpp-DP44",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP44",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.3,
+                        "mid": 3.26,
+                        "high": 5.49,
+                        "market": 2.68,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Charizard G LV.X",
+            "id": "dpp-DP45",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP45",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 74.0,
+                        "mid": 93.0,
+                        "high": 110.0,
+                        "market": 104.89,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Garchomp C LV.X",
+            "id": "dpp-DP46",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP46",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 10.39,
+                        "mid": 14.49,
+                        "high": 38.0,
+                        "market": 19.31,
+                        "directLow": 20.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Rayquaza C LV.X",
+            "id": "dpp-DP47",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP47",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 19.99,
+                        "mid": 41.33,
+                        "high": 70.36,
+                        "market": 48.03,
+                        "directLow": 19.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Tropical Wind",
+            "id": "dpp-DP48",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP48",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 249.0,
+                        "mid": 249.0,
+                        "high": 249.0,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Dialga",
+            "id": "dpp-DP49",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP49",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.65,
+                        "mid": 7.25,
+                        "high": 17.99,
+                        "market": 7.3,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Arceus",
+            "id": "dpp-DP50",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP50",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 6.7,
+                        "mid": 9.99,
+                        "high": 89.0,
+                        "market": 13.32,
+                        "directLow": 12.57
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Cresselia",
+            "id": "dpp-DP51",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP51",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.48,
+                        "mid": 2.94,
+                        "high": 5.39,
+                        "market": 3.09,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Darkrai",
+            "id": "dpp-DP52",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP52",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.94,
+                        "mid": 4.99,
+                        "high": 14.99,
+                        "market": 4.99,
+                        "directLow": 5.07
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Arceus LV.X",
+            "id": "dpp-DP53",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP53",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 15.71,
+                        "mid": 28.0,
+                        "high": 32.42,
+                        "market": 31.89,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Beginning Door",
+            "id": "dpp-DP54",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Ultimate Zone",
+            "id": "dpp-DP55",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        },
+        {
+            "name": "Arceus LV.X",
+            "id": "dpp-DP56",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP56",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.0,
+                        "mid": 20.07,
+                        "high": 38.45,
+                        "market": 26.26,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "dpp"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "pulled_on": "04/04/2025 20:57:13",
+    "count": 5,
+    "data": [
+        {
+            "name": "Pikachu on the Ball",
+            "id": "fut20-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/fut20-1",
+                "updatedAt": "2023/03/01",
+                "prices": {
+                    "normal": {
+                        "low": 43.0,
+                        "mid": 70.15,
+                        "high": 500.0,
+                        "market": 86.29,
+                        "directLow": 52.99
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "fut20"
+        },
+        {
+            "name": "Eevee on the Ball",
+            "id": "fut20-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/fut20-2",
+                "updatedAt": "2023/03/01",
+                "prices": {
+                    "normal": {
+                        "low": 42.0,
+                        "mid": 52.38,
+                        "high": 59.95,
+                        "market": 52.38,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "fut20"
+        },
+        {
+            "name": "Grookey on the Ball",
+            "id": "fut20-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/fut20-3",
+                "updatedAt": "2023/03/01",
+                "prices": {
+                    "normal": {
+                        "low": 40.0,
+                        "mid": 49.99,
+                        "high": 99.99,
+                        "market": 36.07,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "fut20"
+        },
+        {
+            "name": "Scorbunny on the Ball",
+            "id": "fut20-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/fut20-4",
+                "updatedAt": "2023/03/01",
+                "prices": {
+                    "normal": {
+                        "low": null,
+                        "mid": null,
+                        "high": null,
+                        "market": 37.08,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "fut20"
+        },
+        {
+            "name": "Sobble on the Ball",
+            "id": "fut20-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/fut20-5",
+                "updatedAt": "2023/03/01",
+                "prices": {
+                    "normal": {
+                        "low": 48.0,
+                        "mid": 55.15,
+                        "high": 99.99,
+                        "market": 55.31,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "fut20"
+        }
+    ]
+}

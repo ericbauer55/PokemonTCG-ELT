@@ -1,0 +1,5273 @@
+{
+    "pulled_on": "04/04/2025 20:57:11",
+    "count": 165,
+    "data": [
+        {
+            "name": "Paras",
+            "id": "xy8-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-1",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 1.37,
+                        "market": 0.1,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.12,
+                        "mid": 0.3,
+                        "high": 2.68,
+                        "market": 0.32,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Parasect",
+            "id": "xy8-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.1,
+                        "mid": 0.3,
+                        "high": 1.46,
+                        "market": 0.28,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.53,
+                        "high": 7.08,
+                        "market": 0.51,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Pinsir",
+            "id": "xy8-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.42,
+                        "market": 0.12,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.19,
+                        "mid": 0.37,
+                        "high": 6.98,
+                        "market": 0.33,
+                        "directLow": 0.3
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Cacnea",
+            "id": "xy8-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.25,
+                        "high": 1.22,
+                        "market": 0.28,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.4,
+                        "mid": 0.61,
+                        "high": 2.42,
+                        "market": 0.61,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Pansage",
+            "id": "xy8-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-5",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 3.4,
+                        "market": 0.1,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.18,
+                        "mid": 0.35,
+                        "high": 2.0,
+                        "market": 0.35,
+                        "directLow": 0.36
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Simisage",
+            "id": "xy8-6",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-6",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.07,
+                        "mid": 0.25,
+                        "high": 1.41,
+                        "market": 0.19,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.19,
+                        "mid": 0.45,
+                        "high": 1.0,
+                        "market": 0.52,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Chespin",
+            "id": "xy8-7",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-7",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 1.38,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.46,
+                        "high": 2.75,
+                        "market": 0.46,
+                        "directLow": 0.55
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Chespin",
+            "id": "xy8-8",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-8",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.24,
+                        "high": 1.39,
+                        "market": 0.23,
+                        "directLow": 0.15
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.24,
+                        "mid": 0.56,
+                        "high": 3.11,
+                        "market": 0.58,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Chespin",
+            "id": "xy8-9",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-9",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.08,
+                        "mid": 0.25,
+                        "high": 1.42,
+                        "market": 0.32,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.73,
+                        "high": 1.0,
+                        "market": 0.83,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Quilladin",
+            "id": "xy8-10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.24,
+                        "mid": 0.52,
+                        "high": 2.95,
+                        "market": 0.55,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.29,
+                        "mid": 0.58,
+                        "high": 1.63,
+                        "market": 0.6,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Chesnaught",
+            "id": "xy8-11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.28,
+                        "mid": 1.07,
+                        "high": 6.75,
+                        "market": 1.13,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 1.0,
+                        "mid": 1.64,
+                        "high": 8.93,
+                        "market": 1.61,
+                        "directLow": 3.57
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Chesnaught BREAK",
+            "id": "xy8-12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.98,
+                        "mid": 2.33,
+                        "high": 89.0,
+                        "market": 2.37,
+                        "directLow": 2.75
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Scatterbug",
+            "id": "xy8-13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 1.39,
+                        "market": 0.09,
+                        "directLow": 0.1
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.35,
+                        "high": 7.92,
+                        "market": 0.35,
+                        "directLow": 0.3
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Spewpa",
+            "id": "xy8-14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.0,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.12,
+                        "mid": 0.47,
+                        "high": 2.0,
+                        "market": 0.65,
+                        "directLow": 0.8
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Vivillon",
+            "id": "xy8-15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.14,
+                        "mid": 0.38,
+                        "high": 3.2,
+                        "market": 0.35,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.24,
+                        "mid": 0.5,
+                        "high": 2.61,
+                        "market": 0.44,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Skiddo",
+            "id": "xy8-16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.15,
+                        "high": 1.39,
+                        "market": 0.11,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.13,
+                        "mid": 0.35,
+                        "high": 1.95,
+                        "market": 0.39,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Gogoat",
+            "id": "xy8-17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.41,
+                        "market": 0.11,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.4,
+                        "high": 2.48,
+                        "market": 0.38,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Cyndaquil",
+            "id": "xy8-18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.09,
+                        "mid": 0.33,
+                        "high": 5.0,
+                        "market": 0.45,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.5,
+                        "mid": 1.54,
+                        "high": 6.58,
+                        "market": 2.14,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Quilava",
+            "id": "xy8-19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.35,
+                        "high": 5.0,
+                        "market": 0.4,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.45,
+                        "mid": 0.69,
+                        "high": 4.37,
+                        "market": 0.91,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Typhlosion",
+            "id": "xy8-20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.78,
+                        "mid": 3.16,
+                        "high": 15.95,
+                        "market": 2.93,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 3.89,
+                        "mid": 3.94,
+                        "high": 5.12,
+                        "market": 3.89,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Houndoom-EX",
+            "id": "xy8-21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.47,
+                        "mid": 3.25,
+                        "high": 8.98,
+                        "market": 2.93,
+                        "directLow": 4.29
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Houndoom-EX",
+            "id": "xy8-22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 11.46,
+                        "mid": 21.99,
+                        "high": 33.49,
+                        "market": 17.03,
+                        "directLow": 12.72
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Pansear",
+            "id": "xy8-23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.15,
+                        "high": 1.33,
+                        "market": 0.08,
+                        "directLow": 0.09
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.08,
+                        "mid": 0.3,
+                        "high": 2.61,
+                        "market": 0.27,
+                        "directLow": 0.2
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Simisear",
+            "id": "xy8-24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.08,
+                        "mid": 0.25,
+                        "high": 2.0,
+                        "market": 0.19,
+                        "directLow": 0.2
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.5,
+                        "high": 6.65,
+                        "market": 0.45,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Fennekin",
+            "id": "xy8-25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.21,
+                        "high": 2.5,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.34,
+                        "mid": 0.69,
+                        "high": 3.5,
+                        "market": 0.74,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Braixen",
+            "id": "xy8-26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.21,
+                        "high": 1.28,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.28,
+                        "mid": 0.54,
+                        "high": 4.88,
+                        "market": 1.11,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Goldeen",
+            "id": "xy8-27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.16,
+                        "high": 1.22,
+                        "market": 0.11,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.13,
+                        "mid": 0.42,
+                        "high": 3.38,
+                        "market": 0.4,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Seaking",
+            "id": "xy8-28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.22,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.17,
+                        "mid": 0.35,
+                        "high": 2.6,
+                        "market": 0.37,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Staryu",
+            "id": "xy8-29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.15,
+                        "high": 1.0,
+                        "market": 0.11,
+                        "directLow": 0.12
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.49,
+                        "high": 1.96,
+                        "market": 0.49,
+                        "directLow": 0.47
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Starmie",
+            "id": "xy8-30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.19,
+                        "high": 21.63,
+                        "market": 0.16,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.4,
+                        "high": 7.61,
+                        "market": 0.35,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Remoraid",
+            "id": "xy8-31",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-31",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.22,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.4,
+                        "high": 1.97,
+                        "market": 0.36,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Remoraid",
+            "id": "xy8-32",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-32",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.25,
+                        "market": 0.16,
+                        "directLow": 0.14
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.23,
+                        "mid": 0.6,
+                        "high": 2.67,
+                        "market": 0.86,
+                        "directLow": 0.86
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Octillery",
+            "id": "xy8-33",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-33",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.8,
+                        "mid": 3.61,
+                        "high": 5.99,
+                        "market": 3.47,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 3.45,
+                        "mid": 4.5,
+                        "high": 9.0,
+                        "market": 3.69,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Glalie-EX",
+            "id": "xy8-34",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-34",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.9,
+                        "mid": 1.69,
+                        "high": 6.99,
+                        "market": 1.46,
+                        "directLow": 2.24
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Glalie-EX",
+            "id": "xy8-35",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-35",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.95,
+                        "mid": 5.99,
+                        "high": 10.0,
+                        "market": 6.48,
+                        "directLow": 7.64
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Piplup",
+            "id": "xy8-36",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-36",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.23,
+                        "high": 1.88,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.4,
+                        "mid": 1.3,
+                        "high": 8.93,
+                        "market": 1.33,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Prinplup",
+            "id": "xy8-37",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-37",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.07,
+                        "mid": 0.2,
+                        "high": 1.32,
+                        "market": 0.22,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.48,
+                        "high": 6.92,
+                        "market": 0.49,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Empoleon",
+            "id": "xy8-38",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-38",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.3,
+                        "mid": 0.75,
+                        "high": 2.99,
+                        "market": 0.75,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.49,
+                        "mid": 0.65,
+                        "high": 2.99,
+                        "market": 0.61,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Snover",
+            "id": "xy8-39",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-39",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.19,
+                        "high": 1.23,
+                        "market": 0.1,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.05,
+                        "mid": 0.3,
+                        "high": 2.0,
+                        "market": 0.27,
+                        "directLow": 0.26
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Abomasnow",
+            "id": "xy8-40",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-40",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.09,
+                        "mid": 0.25,
+                        "high": 1.86,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.24,
+                        "mid": 0.5,
+                        "high": 1.0,
+                        "market": 0.47,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Panpour",
+            "id": "xy8-41",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-41",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.19,
+                        "high": 1.36,
+                        "market": 0.1,
+                        "directLow": 0.11
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.09,
+                        "mid": 0.39,
+                        "high": 1.4,
+                        "market": 0.4,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Simipour",
+            "id": "xy8-42",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-42",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.27,
+                        "high": 1.12,
+                        "market": 0.27,
+                        "directLow": 0.25
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.24,
+                        "mid": 0.49,
+                        "high": 1.78,
+                        "market": 0.61,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Vanillite",
+            "id": "xy8-43",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-43",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.17,
+                        "high": 1.29,
+                        "market": 0.12,
+                        "directLow": 0.12
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.21,
+                        "mid": 0.4,
+                        "high": 2.0,
+                        "market": 0.36,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Vanillish",
+            "id": "xy8-44",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-44",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 4.0,
+                        "market": 0.14,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.47,
+                        "high": 5.54,
+                        "market": 0.32,
+                        "directLow": 0.5
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Vanilluxe",
+            "id": "xy8-45",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-45",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.15,
+                        "mid": 0.33,
+                        "high": 1.94,
+                        "market": 0.32,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.67,
+                        "high": 1.66,
+                        "market": 0.77,
+                        "directLow": 0.64
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Froakie",
+            "id": "xy8-46",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-46",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 3.09,
+                        "market": 0.15,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.55,
+                        "high": 4.15,
+                        "market": 0.56,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Frogadier",
+            "id": "xy8-47",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-47",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.22,
+                        "high": 6.0,
+                        "market": 0.22,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.65,
+                        "high": 1.99,
+                        "market": 0.69,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Pikachu",
+            "id": "xy8-48",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-48",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.09,
+                        "mid": 0.57,
+                        "high": 5.0,
+                        "market": 0.79,
+                        "directLow": 0.46
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.19,
+                        "mid": 2.48,
+                        "high": 4.99,
+                        "market": 2.75,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Raichu",
+            "id": "xy8-49",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-49",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.17,
+                        "mid": 0.48,
+                        "high": 2.47,
+                        "market": 0.55,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.51,
+                        "mid": 2.25,
+                        "high": 4.99,
+                        "market": 2.38,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Raichu BREAK",
+            "id": "xy8-50",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-50",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.5,
+                        "mid": 5.79,
+                        "high": 10.0,
+                        "market": 5.5,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Magnemite",
+            "id": "xy8-51",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-51",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.15,
+                        "high": 1.32,
+                        "market": 0.14,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.18,
+                        "mid": 0.45,
+                        "high": 1.59,
+                        "market": 0.43,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Magnemite",
+            "id": "xy8-52",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-52",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 1.19,
+                        "market": 0.14,
+                        "directLow": 0.14
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.24,
+                        "mid": 0.48,
+                        "high": 3.47,
+                        "market": 0.53,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Magneton",
+            "id": "xy8-53",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-53",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.21,
+                        "high": 1.36,
+                        "market": 0.19,
+                        "directLow": 0.14
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.52,
+                        "high": 1.75,
+                        "market": 0.62,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Magnezone",
+            "id": "xy8-54",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-54",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.19,
+                        "mid": 0.59,
+                        "high": 2.95,
+                        "market": 0.59,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.44,
+                        "mid": 0.75,
+                        "high": 2.0,
+                        "market": 0.88,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Raikou",
+            "id": "xy8-55",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-55",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.26,
+                        "mid": 2.0,
+                        "high": 89.0,
+                        "market": 2.81,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 1.72,
+                        "mid": 2.12,
+                        "high": 5.53,
+                        "market": 2.61,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Stunfisk",
+            "id": "xy8-56",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-56",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.16,
+                        "high": 1.22,
+                        "market": 0.14,
+                        "directLow": 0.14
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.14,
+                        "mid": 0.27,
+                        "high": 1.45,
+                        "market": 0.27,
+                        "directLow": 0.2
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Dedenne",
+            "id": "xy8-57",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-57",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.23,
+                        "high": 1.45,
+                        "market": 0.22,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.32,
+                        "mid": 0.63,
+                        "high": 7.85,
+                        "market": 0.63,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Gastly",
+            "id": "xy8-58",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-58",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.19,
+                        "high": 1.22,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.44,
+                        "high": 3.04,
+                        "market": 0.51,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Haunter",
+            "id": "xy8-59",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-59",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.25,
+                        "high": 1.63,
+                        "market": 0.27,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.3,
+                        "mid": 0.61,
+                        "high": 1.5,
+                        "market": 0.69,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Gengar",
+            "id": "xy8-60",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-60",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.49,
+                        "mid": 7.0,
+                        "high": 89.0,
+                        "market": 10.29,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 9.69,
+                        "mid": 9.99,
+                        "high": 89.0,
+                        "market": 8.31,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "xy8-61",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-61",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.78,
+                        "mid": 5.0,
+                        "high": 48.02,
+                        "market": 5.55,
+                        "directLow": 2.25
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "xy8-62",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-62",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.99,
+                        "mid": 5.0,
+                        "high": 55.37,
+                        "market": 5.46,
+                        "directLow": 4.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Mewtwo-EX",
+            "id": "xy8-63",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-63",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 20.96,
+                        "mid": 25.19,
+                        "high": 50.0,
+                        "market": 25.33,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Mewtwo-EX",
+            "id": "xy8-64",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-64",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.0,
+                        "mid": 21.43,
+                        "high": 38.29,
+                        "market": 21.43,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Misdreavus",
+            "id": "xy8-65",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-65",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 3.4,
+                        "market": 0.14,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.5,
+                        "high": 6.72,
+                        "market": 0.52,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mismagius",
+            "id": "xy8-66",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-66",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.24,
+                        "mid": 0.6,
+                        "high": 2.67,
+                        "market": 0.61,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.67,
+                        "high": 3.43,
+                        "market": 0.68,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Wobbuffet",
+            "id": "xy8-67",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-67",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 3.92,
+                        "market": 0.16,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.01,
+                        "mid": 0.5,
+                        "high": 7.65,
+                        "market": 0.36,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Ralts",
+            "id": "xy8-68",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-68",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.24,
+                        "high": 1.97,
+                        "market": 0.3,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.11,
+                        "mid": 0.45,
+                        "high": 5.95,
+                        "market": 0.46,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Kirlia",
+            "id": "xy8-69",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-69",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.25,
+                        "high": 2.67,
+                        "market": 0.24,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.4,
+                        "mid": 0.72,
+                        "high": 2.1,
+                        "market": 1.06,
+                        "directLow": 0.79
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Cresselia",
+            "id": "xy8-70",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-70",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.28,
+                        "high": 2.0,
+                        "market": 0.28,
+                        "directLow": 0.4
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.26,
+                        "mid": 0.77,
+                        "high": 4.95,
+                        "market": 0.73,
+                        "directLow": 0.97
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Woobat",
+            "id": "xy8-71",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-71",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 1.19,
+                        "market": 0.11,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.09,
+                        "mid": 0.31,
+                        "high": 1.31,
+                        "market": 0.28,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Swoobat",
+            "id": "xy8-72",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-72",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.01,
+                        "mid": 0.19,
+                        "high": 3.64,
+                        "market": 0.09,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.32,
+                        "high": 2.0,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Elgyem",
+            "id": "xy8-73",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-73",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.22,
+                        "market": 0.14,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.19,
+                        "mid": 0.4,
+                        "high": 2.55,
+                        "market": 0.41,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Beheeyem",
+            "id": "xy8-74",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-74",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 1.13,
+                        "market": 0.21,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.27,
+                        "mid": 0.73,
+                        "high": 2.25,
+                        "market": 0.73,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Sandshrew",
+            "id": "xy8-75",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-75",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.18,
+                        "high": 1.37,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.42,
+                        "high": 4.5,
+                        "market": 0.59,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Sandslash",
+            "id": "xy8-76",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-76",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.09,
+                        "mid": 0.3,
+                        "high": 3.75,
+                        "market": 0.3,
+                        "directLow": 0.25
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.39,
+                        "mid": 0.56,
+                        "high": 3.28,
+                        "market": 0.54,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Cubone",
+            "id": "xy8-77",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-77",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.25,
+                        "high": 2.95,
+                        "market": 0.28,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.42,
+                        "mid": 0.59,
+                        "high": 2.0,
+                        "market": 1.09,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Marowak",
+            "id": "xy8-78",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-78",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.38,
+                        "high": 8.69,
+                        "market": 0.38,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.4,
+                        "mid": 0.62,
+                        "high": 1.72,
+                        "market": 0.55,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Marowak BREAK",
+            "id": "xy8-79",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-79",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.55,
+                        "mid": 2.48,
+                        "high": 89.0,
+                        "market": 2.35,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Swinub",
+            "id": "xy8-80",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-80",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.25,
+                        "high": 1.2,
+                        "market": 0.54,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.16,
+                        "mid": 0.47,
+                        "high": 7.02,
+                        "market": 0.8,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Piloswine",
+            "id": "xy8-81",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-81",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 1.23,
+                        "market": 0.16,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.17,
+                        "mid": 0.4,
+                        "high": 1.51,
+                        "market": 0.33,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mamoswine",
+            "id": "xy8-82",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-82",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.32,
+                        "mid": 0.65,
+                        "high": 3.69,
+                        "market": 0.65,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.45,
+                        "mid": 0.77,
+                        "high": 8.42,
+                        "market": 0.77,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Hippopotas",
+            "id": "xy8-83",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-83",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.15,
+                        "high": 1.38,
+                        "market": 0.08,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.12,
+                        "mid": 0.3,
+                        "high": 1.0,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Gallade",
+            "id": "xy8-84",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-84",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.2,
+                        "mid": 0.55,
+                        "high": 3.0,
+                        "market": 0.45,
+                        "directLow": 0.49
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.5,
+                        "mid": 0.68,
+                        "high": 4.19,
+                        "market": 1.17,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Meloetta",
+            "id": "xy8-85",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-85",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.24,
+                        "mid": 0.76,
+                        "high": 8.93,
+                        "market": 0.88,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.32,
+                        "mid": 0.99,
+                        "high": 2.2,
+                        "market": 1.03,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Pancham",
+            "id": "xy8-86",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-86",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.19,
+                        "high": 1.72,
+                        "market": 0.18,
+                        "directLow": 0.2
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.22,
+                        "mid": 0.5,
+                        "high": 1.7,
+                        "market": 0.56,
+                        "directLow": 1.0
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Hawlucha",
+            "id": "xy8-87",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-87",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.14,
+                        "mid": 0.26,
+                        "high": 2.05,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.05,
+                        "mid": 0.49,
+                        "high": 1.47,
+                        "market": 0.47,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Cacturne",
+            "id": "xy8-88",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-88",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.15,
+                        "high": 8.93,
+                        "market": 0.11,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.11,
+                        "mid": 0.44,
+                        "high": 3.11,
+                        "market": 0.42,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Zorua",
+            "id": "xy8-89",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-89",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.07,
+                        "mid": 0.23,
+                        "high": 2.68,
+                        "market": 0.21,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.23,
+                        "mid": 0.49,
+                        "high": 3.53,
+                        "market": 0.62,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Zorua",
+            "id": "xy8-90",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-90",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.06,
+                        "mid": 0.23,
+                        "high": 1.5,
+                        "market": 0.22,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.51,
+                        "high": 1.8,
+                        "market": 0.49,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Zoroark",
+            "id": "xy8-91",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-91",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.95,
+                        "mid": 1.32,
+                        "high": 89.0,
+                        "market": 1.21,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 1.0,
+                        "mid": 2.05,
+                        "high": 3.42,
+                        "market": 1.89,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Zoroark BREAK",
+            "id": "xy8-92",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-92",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.54,
+                        "mid": 3.33,
+                        "high": 89.0,
+                        "market": 3.32,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Inkay",
+            "id": "xy8-93",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-93",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.01,
+                        "mid": 0.15,
+                        "high": 1.18,
+                        "market": 0.09,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.04,
+                        "mid": 0.25,
+                        "high": 1.38,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Yveltal",
+            "id": "xy8-94",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-94",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.2,
+                        "mid": 0.6,
+                        "high": 2.99,
+                        "market": 0.6,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.48,
+                        "mid": 0.97,
+                        "high": 2.0,
+                        "market": 1.07,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Bronzor",
+            "id": "xy8-95",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-95",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.01,
+                        "mid": 0.13,
+                        "high": 1.75,
+                        "market": 0.06,
+                        "directLow": 0.07
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.4,
+                        "high": 1.95,
+                        "market": 0.39,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Bronzong",
+            "id": "xy8-96",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-96",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.1,
+                        "mid": 0.32,
+                        "high": 2.0,
+                        "market": 0.39,
+                        "directLow": 0.28
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.4,
+                        "mid": 0.59,
+                        "high": 2.99,
+                        "market": 0.59,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mr. Mime",
+            "id": "xy8-97",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-97",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.09,
+                        "mid": 0.37,
+                        "high": 4.95,
+                        "market": 0.44,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.44,
+                        "mid": 1.0,
+                        "high": 1.83,
+                        "market": 1.6,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Snubbull",
+            "id": "xy8-98",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-98",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.06,
+                        "mid": 0.25,
+                        "high": 6.0,
+                        "market": 0.27,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.13,
+                        "mid": 0.58,
+                        "high": 4.32,
+                        "market": 0.63,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Granbull",
+            "id": "xy8-99",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-99",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.25,
+                        "high": 1.58,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.5,
+                        "high": 1.99,
+                        "market": 0.53,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Ralts",
+            "id": "xy8-100",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-100",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.25,
+                        "high": 1.0,
+                        "market": 0.27,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.5,
+                        "high": 5.95,
+                        "market": 0.61,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Flab\u00e9b\u00e9",
+            "id": "xy8-101",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-101",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.19,
+                        "high": 1.0,
+                        "market": 0.16,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.13,
+                        "mid": 0.35,
+                        "high": 3.95,
+                        "market": 0.33,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Floette",
+            "id": "xy8-102",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-102",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.09,
+                        "mid": 0.2,
+                        "high": 2.0,
+                        "market": 0.2,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.13,
+                        "mid": 0.42,
+                        "high": 2.0,
+                        "market": 0.39,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Florges",
+            "id": "xy8-103",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-103",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.2,
+                        "mid": 0.43,
+                        "high": 45.0,
+                        "market": 0.43,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.68,
+                        "mid": 1.05,
+                        "high": 7.8,
+                        "market": 1.03,
+                        "directLow": 0.76
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Florges BREAK",
+            "id": "xy8-104",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-104",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 2.11,
+                        "high": 89.0,
+                        "market": 1.85,
+                        "directLow": 2.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Spritzee",
+            "id": "xy8-105",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-105",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.36,
+                        "market": 0.18,
+                        "directLow": 0.14
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.19,
+                        "mid": 0.33,
+                        "high": 1.0,
+                        "market": 0.36,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Aromatisse",
+            "id": "xy8-106",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-106",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.2,
+                        "mid": 0.33,
+                        "high": 1.95,
+                        "market": 0.32,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 1.3,
+                        "high": 44.46,
+                        "market": 1.91,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Xerneas",
+            "id": "xy8-107",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-107",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.4,
+                        "mid": 0.99,
+                        "high": 3.99,
+                        "market": 1.15,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.74,
+                        "mid": 1.2,
+                        "high": 3.0,
+                        "market": 1.45,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Axew",
+            "id": "xy8-108",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-108",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.43,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.17,
+                        "mid": 0.5,
+                        "high": 7.63,
+                        "market": 0.8,
+                        "directLow": 0.79
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Axew",
+            "id": "xy8-109",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-109",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 1.38,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.6,
+                        "high": 7.86,
+                        "market": 0.6,
+                        "directLow": 0.54
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Fraxure",
+            "id": "xy8-110",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-110",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.22,
+                        "high": 1.21,
+                        "market": 0.22,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.45,
+                        "high": 2.71,
+                        "market": 0.41,
+                        "directLow": 0.55
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Haxorus",
+            "id": "xy8-111",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-111",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.85,
+                        "mid": 1.25,
+                        "high": 2.75,
+                        "market": 1.27,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": {
+                        "low": 0.9,
+                        "mid": 2.24,
+                        "high": 3.78,
+                        "market": 2.32,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Noivern",
+            "id": "xy8-112",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-112",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.08,
+                        "mid": 0.34,
+                        "high": 2.0,
+                        "market": 0.34,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.5,
+                        "mid": 0.7,
+                        "high": 2.0,
+                        "market": 0.67,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Noivern BREAK",
+            "id": "xy8-113",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-113",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.76,
+                        "mid": 2.81,
+                        "high": 89.0,
+                        "market": 2.76,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Meowth",
+            "id": "xy8-114",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-114",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.17,
+                        "high": 1.99,
+                        "market": 0.13,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.14,
+                        "mid": 0.46,
+                        "high": 1.04,
+                        "market": 0.41,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Doduo",
+            "id": "xy8-115",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-115",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 21.9,
+                        "market": 0.17,
+                        "directLow": 0.2
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.14,
+                        "mid": 0.44,
+                        "high": 2.65,
+                        "market": 0.41,
+                        "directLow": 0.25
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Doduo",
+            "id": "xy8-116",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-116",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.2,
+                        "high": 1.0,
+                        "market": 0.19,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.14,
+                        "mid": 0.5,
+                        "high": 2.0,
+                        "market": 0.33,
+                        "directLow": 0.35
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Dodrio",
+            "id": "xy8-117",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-117",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.15,
+                        "mid": 0.26,
+                        "high": 1.51,
+                        "market": 0.24,
+                        "directLow": 0.25
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.62,
+                        "high": 3.95,
+                        "market": 0.52,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Snorlax",
+            "id": "xy8-118",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-118",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.45,
+                        "mid": 1.0,
+                        "high": 3.79,
+                        "market": 1.4,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.76,
+                        "mid": 2.93,
+                        "high": 89.0,
+                        "market": 2.56,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Hoothoot",
+            "id": "xy8-119",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-119",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.06,
+                        "mid": 0.19,
+                        "high": 1.39,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.35,
+                        "high": 2.95,
+                        "market": 0.32,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Noctowl",
+            "id": "xy8-120",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-120",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.1,
+                        "mid": 0.25,
+                        "high": 1.0,
+                        "market": 0.21,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.29,
+                        "mid": 0.67,
+                        "high": 4.32,
+                        "market": 0.66,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Teddiursa",
+            "id": "xy8-121",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-121",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.08,
+                        "mid": 0.2,
+                        "high": 2.67,
+                        "market": 0.15,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.54,
+                        "high": 3.95,
+                        "market": 0.66,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Ursaring",
+            "id": "xy8-122",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-122",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.01,
+                        "mid": 0.19,
+                        "high": 1.19,
+                        "market": 0.15,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.16,
+                        "mid": 0.33,
+                        "high": 2.63,
+                        "market": 0.29,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Smeargle",
+            "id": "xy8-123",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-123",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.07,
+                        "mid": 0.25,
+                        "high": 3.81,
+                        "market": 0.23,
+                        "directLow": 0.23
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.45,
+                        "mid": 0.62,
+                        "high": 1.86,
+                        "market": 0.7,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Swablu",
+            "id": "xy8-124",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-124",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.22,
+                        "high": 1.22,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.45,
+                        "high": 2.0,
+                        "market": 0.47,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Starly",
+            "id": "xy8-125",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-125",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.17,
+                        "high": 1.21,
+                        "market": 0.12,
+                        "directLow": 0.13
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.27,
+                        "high": 7.21,
+                        "market": 0.19,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Staravia",
+            "id": "xy8-126",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-126",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.22,
+                        "high": 1.0,
+                        "market": 0.13,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.34,
+                        "high": 3.11,
+                        "market": 0.34,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Staraptor",
+            "id": "xy8-127",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-127",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.13,
+                        "mid": 0.25,
+                        "high": 2.0,
+                        "market": 0.23,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.18,
+                        "mid": 0.43,
+                        "high": 8.64,
+                        "market": 0.35,
+                        "directLow": 0.29
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Chatot",
+            "id": "xy8-128",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-128",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.1,
+                        "mid": 0.25,
+                        "high": 1.42,
+                        "market": 0.2,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.12,
+                        "mid": 0.38,
+                        "high": 1.99,
+                        "market": 0.35,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Rufflet",
+            "id": "xy8-129",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-129",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.0,
+                        "market": 0.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.17,
+                        "mid": 0.36,
+                        "high": 1.0,
+                        "market": 0.32,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Braviary",
+            "id": "xy8-130",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-130",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.1,
+                        "mid": 0.25,
+                        "high": 2.0,
+                        "market": 0.22,
+                        "directLow": 0.19
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.44,
+                        "high": 2.95,
+                        "market": 0.37,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Noibat",
+            "id": "xy8-131",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-131",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.15,
+                        "high": 1.0,
+                        "market": 0.12,
+                        "directLow": 0.05
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.18,
+                        "mid": 0.32,
+                        "high": 3.61,
+                        "market": 0.28,
+                        "directLow": 0.25
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Noibat",
+            "id": "xy8-132",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-132",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.17,
+                        "high": 2.05,
+                        "market": 0.14,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.35,
+                        "high": 2.65,
+                        "market": 0.52,
+                        "directLow": 0.35
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Assault Vest",
+            "id": "xy8-133",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-133",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.21,
+                        "high": 1.0,
+                        "market": 0.17,
+                        "directLow": 0.17
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.11,
+                        "mid": 0.35,
+                        "high": 2.0,
+                        "market": 0.31,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Brigette",
+            "id": "xy8-134",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-134",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.5,
+                        "mid": 1.39,
+                        "high": 89.0,
+                        "market": 1.27,
+                        "directLow": 1.32
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.0,
+                        "mid": 3.3,
+                        "high": 89.0,
+                        "market": 3.77,
+                        "directLow": 2.01
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Buddy-Buddy Rescue",
+            "id": "xy8-135",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-135",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.08,
+                        "mid": 0.25,
+                        "high": 1.62,
+                        "market": 0.2,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.43,
+                        "high": 2.0,
+                        "market": 0.4,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Fisherman",
+            "id": "xy8-136",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-136",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.25,
+                        "high": 2.35,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.45,
+                        "high": 2.99,
+                        "market": 0.43,
+                        "directLow": 0.37
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Float Stone",
+            "id": "xy8-137",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-137",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 4.0,
+                        "mid": 5.83,
+                        "high": 89.0,
+                        "market": 6.07,
+                        "directLow": 6.96
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 5.98,
+                        "mid": 7.0,
+                        "high": 16.14,
+                        "market": 6.98,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Giovanni's Scheme",
+            "id": "xy8-138",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-138",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.1,
+                        "mid": 0.25,
+                        "high": 3.75,
+                        "market": 0.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.16,
+                        "mid": 0.4,
+                        "high": 3.59,
+                        "market": 0.41,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Glalie Spirit Link",
+            "id": "xy8-139",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-139",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.03,
+                        "mid": 0.2,
+                        "high": 1.36,
+                        "market": 0.18,
+                        "directLow": 0.16
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.12,
+                        "mid": 0.43,
+                        "high": 1.04,
+                        "market": 0.59,
+                        "directLow": 0.24
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Heavy Ball",
+            "id": "xy8-140",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-140",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.45,
+                        "mid": 0.67,
+                        "high": 3.25,
+                        "market": 0.68,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.75,
+                        "mid": 1.21,
+                        "high": 3.5,
+                        "market": 1.21,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Heavy Boots",
+            "id": "xy8-141",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-141",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.2,
+                        "high": 1.53,
+                        "market": 0.12,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.08,
+                        "mid": 0.3,
+                        "high": 1.23,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Houndoom Spirit Link",
+            "id": "xy8-142",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-142",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.2,
+                        "high": 1.36,
+                        "market": 0.19,
+                        "directLow": 0.25
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.15,
+                        "mid": 0.35,
+                        "high": 1.32,
+                        "market": 0.35,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Judge",
+            "id": "xy8-143",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-143",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.3,
+                        "high": 30.25,
+                        "market": 0.27,
+                        "directLow": 0.2
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 1.04,
+                        "high": 4.95,
+                        "market": 1.38,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo Spirit Link",
+            "id": "xy8-144",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-144",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.05,
+                        "mid": 0.26,
+                        "high": 1.99,
+                        "market": 0.31,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.25,
+                        "mid": 0.91,
+                        "high": 2.06,
+                        "market": 0.98,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Parallel City",
+            "id": "xy8-145",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-145",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.99,
+                        "mid": 2.75,
+                        "high": 6.1,
+                        "market": 3.54,
+                        "directLow": 4.95
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.5,
+                        "mid": 2.99,
+                        "high": 5.15,
+                        "market": 3.12,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Professor's Letter",
+            "id": "xy8-146",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-146",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.14,
+                        "mid": 0.29,
+                        "high": 89.0,
+                        "market": 0.25,
+                        "directLow": 0.28
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.24,
+                        "mid": 0.93,
+                        "high": 9.99,
+                        "market": 0.89,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Professor's Letter",
+            "id": "xy8-146a",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Reserved Ticket",
+            "id": "xy8-147",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-147",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.02,
+                        "mid": 0.2,
+                        "high": 1.36,
+                        "market": 0.14,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.1,
+                        "mid": 0.29,
+                        "high": 5.0,
+                        "market": 0.25,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Skyla",
+            "id": "xy8-148",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-148",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.01,
+                        "mid": 0.23,
+                        "high": 1.5,
+                        "market": 0.21,
+                        "directLow": 0.18
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.2,
+                        "mid": 0.5,
+                        "high": 2.08,
+                        "market": 0.57,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Super Rod",
+            "id": "xy8-149",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-149",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.35,
+                        "mid": 1.64,
+                        "high": 89.0,
+                        "market": 1.58,
+                        "directLow": 1.65
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 2.0,
+                        "mid": 3.83,
+                        "high": 89.0,
+                        "market": 3.99,
+                        "directLow": 4.95
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Town Map",
+            "id": "xy8-150",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-150",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 2.0,
+                        "mid": 3.74,
+                        "high": 89.0,
+                        "market": 3.64,
+                        "directLow": 4.95
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 3.35,
+                        "mid": 4.65,
+                        "high": 12.59,
+                        "market": 4.72,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Burning Energy",
+            "id": "xy8-151",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-151",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.27,
+                        "mid": 1.41,
+                        "high": 89.0,
+                        "market": 1.5,
+                        "directLow": 1.49
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.25,
+                        "mid": 2.12,
+                        "high": 6.08,
+                        "market": 2.12,
+                        "directLow": 1.77
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Rainbow Energy",
+            "id": "xy8-152",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-152",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.04,
+                        "mid": 0.31,
+                        "high": 2.0,
+                        "market": 0.28,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.09,
+                        "mid": 0.56,
+                        "high": 7.92,
+                        "market": 0.61,
+                        "directLow": 0.3
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Houndoom-EX",
+            "id": "xy8-153",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-153",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 11.69,
+                        "mid": 30.0,
+                        "high": 54.88,
+                        "market": 19.49,
+                        "directLow": 34.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Houndoom-EX",
+            "id": "xy8-154",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-154",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 68.99,
+                        "mid": 84.5,
+                        "high": 160.61,
+                        "market": 68.26,
+                        "directLow": 94.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Glalie-EX",
+            "id": "xy8-155",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-155",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.58,
+                        "mid": 15.0,
+                        "high": 22.0,
+                        "market": 6.68,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Glalie-EX",
+            "id": "xy8-156",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-156",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 21.74,
+                        "mid": 25.0,
+                        "high": 55.55,
+                        "market": 17.51,
+                        "directLow": 22.18
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "xy8-157",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-157",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.94,
+                        "mid": 37.5,
+                        "high": 65.0,
+                        "market": 25.01,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "xy8-158",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-158",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 19.0,
+                        "mid": 28.43,
+                        "high": 100.0,
+                        "market": 27.27,
+                        "directLow": 15.7
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Mewtwo-EX",
+            "id": "xy8-159",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-159",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 84.99,
+                        "mid": 98.99,
+                        "high": 175.0,
+                        "market": 74.42,
+                        "directLow": 84.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "M Mewtwo-EX",
+            "id": "xy8-160",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-160",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 48.75,
+                        "mid": 120.0,
+                        "high": 199.0,
+                        "market": 75.06,
+                        "directLow": 65.0
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Brigette",
+            "id": "xy8-161",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-161",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 19.0,
+                        "mid": 31.24,
+                        "high": 80.0,
+                        "market": 32.25,
+                        "directLow": 29.94
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Giovanni's Scheme",
+            "id": "xy8-162",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-162",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 14.31,
+                        "mid": 25.53,
+                        "high": 89.99,
+                        "market": 24.02,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "xy8-163",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-163",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 62.0,
+                        "mid": 89.99,
+                        "high": 140.22,
+                        "market": 77.45,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "xy8-164",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/xy8-164",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 52.32,
+                        "mid": 72.0,
+                        "high": 179.0,
+                        "market": 66.12,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "xy8"
+        }
+    ]
+}

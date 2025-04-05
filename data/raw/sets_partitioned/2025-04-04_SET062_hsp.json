@@ -1,0 +1,681 @@
+{
+    "pulled_on": "04/04/2025 20:57:11",
+    "count": 25,
+    "data": [
+        {
+            "name": "Ho-Oh",
+            "id": "hsp-HGSS01",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS01",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 17.99,
+                        "mid": 20.5,
+                        "high": 44.77,
+                        "market": 18.99,
+                        "directLow": 26.07
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Lugia",
+            "id": "hsp-HGSS02",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS02",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 30.49,
+                        "mid": 48.57,
+                        "high": 53.97,
+                        "market": 42.55,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Pikachu",
+            "id": "hsp-HGSS03",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS03",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 4.91,
+                        "high": 89.0,
+                        "market": 4.84,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Wobbuffet",
+            "id": "hsp-HGSS04",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS04",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.96,
+                        "mid": 2.99,
+                        "high": 6.99,
+                        "market": 3.26,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Hoothoot",
+            "id": "hsp-HGSS05",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS05",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.35,
+                        "mid": 3.27,
+                        "high": 89.0,
+                        "market": 3.52,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Noctowl",
+            "id": "hsp-HGSS06",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS06",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.75,
+                        "mid": 2.84,
+                        "high": 6.0,
+                        "market": 4.19,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Feraligatr",
+            "id": "hsp-HGSS07",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS07",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 15.0,
+                        "mid": 17.21,
+                        "high": 19.41,
+                        "market": 18.73,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Meganium",
+            "id": "hsp-HGSS08",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS08",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.61,
+                        "mid": 14.72,
+                        "high": 25.0,
+                        "market": 19.96,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Typhlosion",
+            "id": "hsp-HGSS09",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS09",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 17.0,
+                        "mid": 22.67,
+                        "high": 41.89,
+                        "market": 20.01,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Latias",
+            "id": "hsp-HGSS10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.45,
+                        "mid": 8.96,
+                        "high": 18.0,
+                        "market": 11.01,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Latios",
+            "id": "hsp-HGSS11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.12,
+                        "mid": 9.8,
+                        "high": 14.16,
+                        "market": 12.43,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Cleffa",
+            "id": "hsp-HGSS12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.37,
+                        "mid": 13.64,
+                        "high": 31.97,
+                        "market": 14.15,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Smoochum",
+            "id": "hsp-HGSS13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 8.5,
+                        "mid": 13.79,
+                        "high": 26.41,
+                        "market": 16.25,
+                        "directLow": 15.27
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Lapras",
+            "id": "hsp-HGSS14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.58,
+                        "mid": 15.97,
+                        "high": 28.78,
+                        "market": 13.98,
+                        "directLow": 15.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Shuckle",
+            "id": "hsp-HGSS15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 2.54,
+                        "high": 13.01,
+                        "market": 8.0,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Plusle",
+            "id": "hsp-HGSS16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.15,
+                        "mid": 5.58,
+                        "high": 9.99,
+                        "market": 8.62,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Minun",
+            "id": "hsp-HGSS17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.5,
+                        "mid": 5.72,
+                        "high": 10.37,
+                        "market": 6.37,
+                        "directLow": 6.25
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Tropical Tidal Wave",
+            "id": "hsp-HGSS18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 599.95,
+                        "mid": 599.95,
+                        "high": 599.95,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Raikou",
+            "id": "hsp-HGSS19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.49,
+                        "mid": 19.89,
+                        "high": 35.0,
+                        "market": 19.16,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Entei",
+            "id": "hsp-HGSS20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 17.5,
+                        "mid": 23.25,
+                        "high": 29.75,
+                        "market": 25.37,
+                        "directLow": 22.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Suicune",
+            "id": "hsp-HGSS21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 31.54,
+                        "mid": 34.99,
+                        "high": 53.31,
+                        "market": 29.3,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Porygon",
+            "id": "hsp-HGSS22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.49,
+                        "mid": 5.79,
+                        "high": 15.48,
+                        "market": 5.84,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Porygon2",
+            "id": "hsp-HGSS23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.86,
+                        "mid": 4.94,
+                        "high": 16.78,
+                        "market": 3.87,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Hitmonchan",
+            "id": "hsp-HGSS24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.25,
+                        "mid": 5.5,
+                        "high": 8.26,
+                        "market": 6.42,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        },
+        {
+            "name": "Hitmonlee",
+            "id": "hsp-HGSS25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/hsp-HGSS25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.39,
+                        "mid": 6.74,
+                        "high": 10.0,
+                        "market": 7.1,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "hsp"
+        }
+    ]
+}

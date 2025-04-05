@@ -1,0 +1,1398 @@
+{
+    "pulled_on": "04/04/2025 20:57:09",
+    "count": 62,
+    "data": [
+        {
+            "name": "Aerodactyl",
+            "id": "base3-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-1",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 48.0,
+                        "mid": 85.8,
+                        "high": 120.0,
+                        "market": 77.5,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Articuno",
+            "id": "base3-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 124.93,
+                        "mid": 2000.0,
+                        "high": 9999.0,
+                        "market": 125.04,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Ditto",
+            "id": "base3-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 57.98,
+                        "mid": 61.79,
+                        "high": 9999.0,
+                        "market": 67.77,
+                        "directLow": 61.79
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Dragonite",
+            "id": "base3-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 252.72,
+                        "mid": 362.5,
+                        "high": 520.21,
+                        "market": 426.38,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Gengar",
+            "id": "base3-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-5",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 199.99,
+                        "mid": 375.0,
+                        "high": 400.0,
+                        "market": 223.67,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Haunter",
+            "id": "base3-6",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-6",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 53.09,
+                        "mid": 69.93,
+                        "high": 9999.0,
+                        "market": 73.02,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Hitmonlee",
+            "id": "base3-7",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-7",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 47.44,
+                        "mid": 75.0,
+                        "high": 133.49,
+                        "market": 82.15,
+                        "directLow": 69.99
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Hypno",
+            "id": "base3-8",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-8",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 33.88,
+                        "mid": 56.19,
+                        "high": 69.99,
+                        "market": 59.17,
+                        "directLow": 35.0
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Kabutops",
+            "id": "base3-9",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-9",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 44.3,
+                        "mid": 74.1,
+                        "high": 4321.0,
+                        "market": 67.09,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Lapras",
+            "id": "base3-10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 82.79,
+                        "mid": 107.0,
+                        "high": 300.0,
+                        "market": 82.79,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Magneton",
+            "id": "base3-11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 21.0,
+                        "mid": 35.02,
+                        "high": 46.17,
+                        "market": 36.83,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Moltres",
+            "id": "base3-12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 136.82,
+                        "mid": 160.0,
+                        "high": 200.0,
+                        "market": 147.65,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Muk",
+            "id": "base3-13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 19.99,
+                        "mid": 28.03,
+                        "high": 39.99,
+                        "market": 31.78,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Raichu",
+            "id": "base3-14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 103.19,
+                        "mid": 157.51,
+                        "high": 200.0,
+                        "market": 88.15,
+                        "directLow": 169.99
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Zapdos",
+            "id": "base3-15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 119.98,
+                        "mid": 210.0,
+                        "high": 9999.0,
+                        "market": 86.24,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Aerodactyl",
+            "id": "base3-16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Articuno",
+            "id": "base3-17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Ditto",
+            "id": "base3-18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Dragonite",
+            "id": "base3-19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Gengar",
+            "id": "base3-20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Haunter",
+            "id": "base3-21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Hitmonlee",
+            "id": "base3-22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Hypno",
+            "id": "base3-23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Kabutops",
+            "id": "base3-24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Lapras",
+            "id": "base3-25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Magneton",
+            "id": "base3-26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Moltres",
+            "id": "base3-27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Muk",
+            "id": "base3-28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Raichu",
+            "id": "base3-29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Zapdos",
+            "id": "base3-30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Arbok",
+            "id": "base3-31",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-31",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Cloyster",
+            "id": "base3-32",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-32",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Gastly",
+            "id": "base3-33",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-33",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Golbat",
+            "id": "base3-34",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-34",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Golduck",
+            "id": "base3-35",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-35",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Golem",
+            "id": "base3-36",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-36",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Graveler",
+            "id": "base3-37",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-37",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Kingler",
+            "id": "base3-38",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-38",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Magmar",
+            "id": "base3-39",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-39",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Omastar",
+            "id": "base3-40",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-40",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Sandslash",
+            "id": "base3-41",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-41",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Seadra",
+            "id": "base3-42",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-42",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Slowbro",
+            "id": "base3-43",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-43",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Tentacruel",
+            "id": "base3-44",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-44",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Weezing",
+            "id": "base3-45",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-45",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Ekans",
+            "id": "base3-46",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-46",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Geodude",
+            "id": "base3-47",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-47",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Grimer",
+            "id": "base3-48",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-48",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Horsea",
+            "id": "base3-49",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-49",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Kabuto",
+            "id": "base3-50",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-50",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Krabby",
+            "id": "base3-51",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-51",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Omanyte",
+            "id": "base3-52",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-52",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Psyduck",
+            "id": "base3-53",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-53",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Shellder",
+            "id": "base3-54",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-54",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Slowpoke",
+            "id": "base3-55",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-55",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Tentacool",
+            "id": "base3-56",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-56",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Zubat",
+            "id": "base3-57",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-57",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Mr. Fuji",
+            "id": "base3-58",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-58",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Energy Search",
+            "id": "base3-59",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-59",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Gambler",
+            "id": "base3-60",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-60",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Recycle",
+            "id": "base3-61",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-61",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "base3"
+        },
+        {
+            "name": "Mysterious Fossil",
+            "id": "base3-62",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/base3-62",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "base3"
+        }
+    ]
+}
