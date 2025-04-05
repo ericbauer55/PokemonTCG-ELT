@@ -1,0 +1,138 @@
+{
+    "pulled_on": "04/04/2025 20:16:46",
+    "count": 12,
+    "data": [
+        {
+            "name": "Beldum",
+            "id": "tk2a-1",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Electrike",
+            "id": "tk2a-2",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Grumpig",
+            "id": "tk2a-3",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Meowth",
+            "id": "tk2a-4",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Metang",
+            "id": "tk2a-5",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Plusle",
+            "id": "tk2a-6",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Spoink",
+            "id": "tk2a-7",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Energy Search",
+            "id": "tk2a-8",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Potion",
+            "id": "tk2a-9",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Professor Cozmo's Discovery",
+            "id": "tk2a-10",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Lightning Energy",
+            "id": "tk2a-11",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk2a"
+        },
+        {
+            "name": "Psychic Energy",
+            "id": "tk2a-12",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk2a"
+        }
+    ]
+}

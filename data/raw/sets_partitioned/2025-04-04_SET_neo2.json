@@ -1,0 +1,1677 @@
+{
+    "pulled_on": "04/04/2025 20:16:41",
+    "count": 75,
+    "data": [
+        {
+            "name": "Espeon",
+            "id": "neo2-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-1",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 349.99,
+                        "mid": 395.0,
+                        "high": 414.75,
+                        "market": 299.0,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Forretress",
+            "id": "neo2-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 32.0,
+                        "mid": 64.72,
+                        "high": 91.37,
+                        "market": 46.24,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Hitmontop",
+            "id": "neo2-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 27.98,
+                        "mid": 40.0,
+                        "high": 84.95,
+                        "market": 84.94,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Houndoom",
+            "id": "neo2-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 130.2,
+                        "mid": 160.0,
+                        "high": 162.98,
+                        "market": 112.48,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Houndour",
+            "id": "neo2-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-5",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 58.95,
+                        "mid": 71.5,
+                        "high": 125.0,
+                        "market": 172.46,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Kabutops",
+            "id": "neo2-6",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-6",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 40.0,
+                        "mid": 40.0,
+                        "high": 40.0,
+                        "market": 128.27,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Magnemite",
+            "id": "neo2-7",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-7",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 64.95,
+                        "mid": 64.95,
+                        "high": 66.97,
+                        "market": 60.26,
+                        "directLow": 66.97
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Politoed",
+            "id": "neo2-8",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-8",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 106.6,
+                        "mid": 106.6,
+                        "high": 106.6,
+                        "market": 142.08,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Poliwrath",
+            "id": "neo2-9",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-9",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 29.69,
+                        "mid": 48.39,
+                        "high": 74.97,
+                        "market": 74.29,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Scizor",
+            "id": "neo2-10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 54.01,
+                        "mid": 61.22,
+                        "high": 68.42,
+                        "market": 169.99,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Smeargle",
+            "id": "neo2-11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 60.0,
+                        "mid": 115.0,
+                        "high": 119.97,
+                        "market": 60.65,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Tyranitar",
+            "id": "neo2-12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 126.83,
+                        "mid": 139.53,
+                        "high": 412.2,
+                        "market": 131.24,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Umbreon",
+            "id": "neo2-13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [A]",
+            "id": "neo2-14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 39.12,
+                        "mid": 64.27,
+                        "high": 79.99,
+                        "market": 49.15,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Ursaring",
+            "id": "neo2-15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 69.99,
+                        "mid": 84.94,
+                        "high": 199.99,
+                        "market": 91.08,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Wobbuffet",
+            "id": "neo2-16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 27.49,
+                        "mid": 28.62,
+                        "high": 74.0,
+                        "market": 66.97,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Yanma",
+            "id": "neo2-17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": {
+                        "low": 51.0,
+                        "mid": 54.04,
+                        "high": 120.0,
+                        "market": 53.65,
+                        "directLow": null
+                    },
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Beedrill",
+            "id": "neo2-18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Butterfree",
+            "id": "neo2-19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Espeon",
+            "id": "neo2-20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Forretress",
+            "id": "neo2-21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Hitmontop",
+            "id": "neo2-22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Houndoom",
+            "id": "neo2-23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Houndour",
+            "id": "neo2-24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Kabutops",
+            "id": "neo2-25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Magnemite",
+            "id": "neo2-26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Politoed",
+            "id": "neo2-27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Poliwrath",
+            "id": "neo2-28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Scizor",
+            "id": "neo2-29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Smeargle",
+            "id": "neo2-30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Tyranitar",
+            "id": "neo2-31",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-31",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Umbreon",
+            "id": "neo2-32",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-32",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [A]",
+            "id": "neo2-33",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-33",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Ursaring",
+            "id": "neo2-34",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-34",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Wobbuffet",
+            "id": "neo2-35",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-35",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Yanma",
+            "id": "neo2-36",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-36",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Corsola",
+            "id": "neo2-37",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-37",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Eevee",
+            "id": "neo2-38",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-38",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Houndour",
+            "id": "neo2-39",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-39",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Igglybuff",
+            "id": "neo2-40",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-40",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Kakuna",
+            "id": "neo2-41",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-41",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Metapod",
+            "id": "neo2-42",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-42",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Omastar",
+            "id": "neo2-43",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-43",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Poliwhirl",
+            "id": "neo2-44",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-44",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Pupitar",
+            "id": "neo2-45",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-45",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Scyther",
+            "id": "neo2-46",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-46",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [D]",
+            "id": "neo2-47",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-47",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [F]",
+            "id": "neo2-48",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-48",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [M]",
+            "id": "neo2-49",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-49",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [N]",
+            "id": "neo2-50",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-50",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [U]",
+            "id": "neo2-51",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-51",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Xatu",
+            "id": "neo2-52",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-52",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Caterpie",
+            "id": "neo2-53",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-53",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Dunsparce",
+            "id": "neo2-54",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-54",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Hoppip",
+            "id": "neo2-55",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-55",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Kabuto",
+            "id": "neo2-56",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-56",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Larvitar",
+            "id": "neo2-57",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-57",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Mareep",
+            "id": "neo2-58",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-58",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Natu",
+            "id": "neo2-59",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-59",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Omanyte",
+            "id": "neo2-60",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-60",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Pineco",
+            "id": "neo2-61",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-61",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Poliwag",
+            "id": "neo2-62",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-62",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Sentret",
+            "id": "neo2-63",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-63",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Spinarak",
+            "id": "neo2-64",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-64",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Teddiursa",
+            "id": "neo2-65",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-65",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Tyrogue",
+            "id": "neo2-66",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-66",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [E]",
+            "id": "neo2-67",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-67",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [I]",
+            "id": "neo2-68",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-68",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Unown [O]",
+            "id": "neo2-69",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-69",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Weedle",
+            "id": "neo2-70",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-70",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Wooper",
+            "id": "neo2-71",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-71",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Fossil Egg",
+            "id": "neo2-72",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-72",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Hyper Devolution Spray",
+            "id": "neo2-73",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-73",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Ruin Wall",
+            "id": "neo2-74",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-74",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        },
+        {
+            "name": "Energy Ark",
+            "id": "neo2-75",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/neo2-75",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "neo2"
+        }
+    ]
+}

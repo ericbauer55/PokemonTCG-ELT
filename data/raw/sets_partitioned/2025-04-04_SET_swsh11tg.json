@@ -1,0 +1,816 @@
+{
+    "pulled_on": "04/04/2025 20:16:46",
+    "count": 30,
+    "data": [
+        {
+            "name": "Parasect",
+            "id": "swsh11tg-TG01",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG01",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.75,
+                        "mid": 1.75,
+                        "high": 4321.0,
+                        "market": 1.21,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Roserade",
+            "id": "swsh11tg-TG02",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG02",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.6,
+                        "mid": 2.12,
+                        "high": 999.99,
+                        "market": 1.7,
+                        "directLow": 1.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Charizard",
+            "id": "swsh11tg-TG03",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG03",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 10.0,
+                        "mid": 13.0,
+                        "high": 100.0,
+                        "market": 12.13,
+                        "directLow": 11.5
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Chandelure",
+            "id": "swsh11tg-TG04",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG04",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.72,
+                        "mid": 1.99,
+                        "high": 4321.0,
+                        "market": 1.99,
+                        "directLow": 2.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Pikachu",
+            "id": "swsh11tg-TG05",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG05",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 11.65,
+                        "mid": 17.0,
+                        "high": 418.15,
+                        "market": 13.77,
+                        "directLow": 14.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Gengar",
+            "id": "swsh11tg-TG06",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG06",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.41,
+                        "mid": 17.48,
+                        "high": 199.99,
+                        "market": 14.51,
+                        "directLow": 17.95
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Banette",
+            "id": "swsh11tg-TG07",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG07",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.87,
+                        "mid": 1.99,
+                        "high": 999.99,
+                        "market": 1.68,
+                        "directLow": 2.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Hisuian Arcanine",
+            "id": "swsh11tg-TG08",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG08",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.8,
+                        "mid": 2.96,
+                        "high": 89.0,
+                        "market": 2.51,
+                        "directLow": 2.51
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Spiritomb",
+            "id": "swsh11tg-TG09",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG09",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 1.75,
+                        "high": 89.0,
+                        "market": 1.47,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Snorlax",
+            "id": "swsh11tg-TG10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.97,
+                        "mid": 7.04,
+                        "high": 89.0,
+                        "market": 5.7,
+                        "directLow": 6.38
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Castform",
+            "id": "swsh11tg-TG11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.53,
+                        "mid": 1.64,
+                        "high": 89.0,
+                        "market": 1.57,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Orbeetle V",
+            "id": "swsh11tg-TG12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.15,
+                        "mid": 4.68,
+                        "high": 17.99,
+                        "market": 4.42,
+                        "directLow": 4.46
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Orbeetle VMAX",
+            "id": "swsh11tg-TG13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.75,
+                        "mid": 7.99,
+                        "high": 24.74,
+                        "market": 7.11,
+                        "directLow": 7.05
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Centiskorch V",
+            "id": "swsh11tg-TG14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 3.4,
+                        "high": 25.0,
+                        "market": 3.34,
+                        "directLow": 4.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Centiskorch VMAX",
+            "id": "swsh11tg-TG15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.49,
+                        "mid": 6.33,
+                        "high": 89.0,
+                        "market": 5.71,
+                        "directLow": 5.83
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Pikachu V",
+            "id": "swsh11tg-TG16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 42.0,
+                        "mid": 50.2,
+                        "high": 125.0,
+                        "market": 48.8,
+                        "directLow": 37.9
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Pikachu VMAX",
+            "id": "swsh11tg-TG17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 51.94,
+                        "mid": 65.0,
+                        "high": 179.0,
+                        "market": 63.07,
+                        "directLow": 63.83
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Enamorus V",
+            "id": "swsh11tg-TG18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.0,
+                        "mid": 8.5,
+                        "high": 38.09,
+                        "market": 8.21,
+                        "directLow": 11.39
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Gallade V",
+            "id": "swsh11tg-TG19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.99,
+                        "mid": 7.0,
+                        "high": 89.0,
+                        "market": 6.88,
+                        "directLow": 8.74
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Crobat V",
+            "id": "swsh11tg-TG20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.5,
+                        "mid": 7.21,
+                        "high": 24.95,
+                        "market": 6.85,
+                        "directLow": 9.2
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Eternatus V",
+            "id": "swsh11tg-TG21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 3.13,
+                        "high": 20.0,
+                        "market": 3.22,
+                        "directLow": 3.4
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Eternatus VMAX",
+            "id": "swsh11tg-TG22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.5,
+                        "mid": 9.99,
+                        "high": 41.07,
+                        "market": 9.25,
+                        "directLow": 9.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Adventurer's Discovery",
+            "id": "swsh11tg-TG23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 3.0,
+                        "high": 29.95,
+                        "market": 3.02,
+                        "directLow": 4.78
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Boss's Orders",
+            "id": "swsh11tg-TG24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.86,
+                        "mid": 7.12,
+                        "high": 25.0,
+                        "market": 6.81,
+                        "directLow": 7.61
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Cook",
+            "id": "swsh11tg-TG25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 1.89,
+                        "high": 15.99,
+                        "market": 1.69,
+                        "directLow": 2.0
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Kabu",
+            "id": "swsh11tg-TG26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.48,
+                        "mid": 1.55,
+                        "high": 14.99,
+                        "market": 1.4,
+                        "directLow": 1.47
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Nessa",
+            "id": "swsh11tg-TG27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.0,
+                        "mid": 12.0,
+                        "high": 89.0,
+                        "market": 10.78,
+                        "directLow": 11.4
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Opal",
+            "id": "swsh11tg-TG28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.75,
+                        "mid": 1.79,
+                        "high": 12.95,
+                        "market": 1.86,
+                        "directLow": 2.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Pikachu VMAX",
+            "id": "swsh11tg-TG29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 8.77,
+                        "mid": 11.84,
+                        "high": 29.95,
+                        "market": 11.13,
+                        "directLow": 11.34
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh11tg"
+        },
+        {
+            "name": "Mew VMAX",
+            "id": "swsh11tg-TG30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 8.99,
+                        "mid": 11.99,
+                        "high": 39.99,
+                        "market": 11.51,
+                        "directLow": 11.57
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh11tg"
+        }
+    ]
+}

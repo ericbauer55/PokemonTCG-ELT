@@ -1,0 +1,1413 @@
+{
+    "pulled_on": "04/04/2025 20:16:41",
+    "count": 53,
+    "data": [
+        {
+            "name": "Pikachu",
+            "id": "basep-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-1",
+                "updatedAt": "2023/03/27",
+                "prices": null
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Electabuzz",
+            "id": "basep-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.99,
+                        "mid": 5.64,
+                        "high": 89.0,
+                        "market": 6.05,
+                        "directLow": 4.99
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Mewtwo",
+            "id": "basep-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 8.0,
+                        "mid": 18.49,
+                        "high": 60.0,
+                        "market": 18.83,
+                        "directLow": 9.1
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Pikachu",
+            "id": "basep-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 7.25,
+                        "mid": 15.29,
+                        "high": 89.0,
+                        "market": 16.29,
+                        "directLow": 7.12
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Dragonite",
+            "id": "basep-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-5",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 15.0,
+                        "mid": 25.97,
+                        "high": 89.0,
+                        "market": 27.81,
+                        "directLow": 24.99
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Arcanine",
+            "id": "basep-6",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-6",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 9.73,
+                        "mid": 18.0,
+                        "high": 29.99,
+                        "market": 12.87,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Jigglypuff",
+            "id": "basep-7",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-7",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 6.37,
+                        "mid": 9.74,
+                        "high": 14.8,
+                        "market": 9.08,
+                        "directLow": 6.37
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Mew",
+            "id": "basep-8",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-8",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.5,
+                        "mid": 3.51,
+                        "high": 4321.0,
+                        "market": 3.5,
+                        "directLow": 3.47
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Mew",
+            "id": "basep-9",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-9",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 40.98,
+                        "mid": 49.14,
+                        "high": 84.5,
+                        "market": 61.04,
+                        "directLow": 41.95
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Meowth",
+            "id": "basep-10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.0,
+                        "mid": 19.42,
+                        "high": 90.0,
+                        "market": 17.9,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Eevee",
+            "id": "basep-11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.0,
+                        "mid": 22.99,
+                        "high": 65.0,
+                        "market": 33.22,
+                        "directLow": 22.0
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Mewtwo",
+            "id": "basep-12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 40.35,
+                        "mid": 42.99,
+                        "high": 55.0,
+                        "market": 42.43,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Venusaur",
+            "id": "basep-13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 94.75,
+                        "mid": 117.11,
+                        "high": 139.0,
+                        "market": 110.84,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Mewtwo",
+            "id": "basep-14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 3.82,
+                        "mid": 9.75,
+                        "high": 40.0,
+                        "market": 11.73,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Cool Porygon",
+            "id": "basep-15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 49.99,
+                        "mid": 85.26,
+                        "high": 120.0,
+                        "market": 43.25,
+                        "directLow": 49.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Computer Error",
+            "id": "basep-16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.59,
+                        "mid": 2.9,
+                        "high": 30.0,
+                        "market": 2.77,
+                        "directLow": 2.75
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Dark Persian",
+            "id": "basep-17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 60.48,
+                        "mid": 66.74,
+                        "high": 73.0,
+                        "market": 44.93,
+                        "directLow": 60.48
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Team Rocket's Meowth",
+            "id": "basep-18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 7.09,
+                        "mid": 11.6,
+                        "high": 25.0,
+                        "market": 10.93,
+                        "directLow": 10.19
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Sabrina's Abra",
+            "id": "basep-19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 24.64,
+                        "mid": 39.94,
+                        "high": 42.55,
+                        "market": 27.49,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Psyduck",
+            "id": "basep-20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 14.41,
+                        "mid": 23.98,
+                        "high": 31.5,
+                        "market": 20.17,
+                        "directLow": 22.98
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Moltres",
+            "id": "basep-21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 5.38,
+                        "mid": 6.71,
+                        "high": 89.0,
+                        "market": 6.57,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Articuno",
+            "id": "basep-22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 4.0,
+                        "mid": 7.28,
+                        "high": 10.53,
+                        "market": 7.28,
+                        "directLow": 7.17
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Zapdos",
+            "id": "basep-23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 4.0,
+                        "mid": 8.0,
+                        "high": 19.99,
+                        "market": 8.95,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "_____'s Pikachu",
+            "id": "basep-24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 129.98,
+                        "mid": 154.97,
+                        "high": 191.99,
+                        "market": 127.88,
+                        "directLow": 129.98
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Flying Pikachu",
+            "id": "basep-25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 33.92,
+                        "mid": 34.99,
+                        "high": 69.97,
+                        "market": 31.5,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Pikachu",
+            "id": "basep-26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 29.65,
+                        "mid": 39.99,
+                        "high": 82.54,
+                        "market": 30.17,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Pikachu",
+            "id": "basep-27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 4.9,
+                        "mid": 9.0,
+                        "high": 40.0,
+                        "market": 9.68,
+                        "directLow": 8.38
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Surfing Pikachu",
+            "id": "basep-28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 9.0,
+                        "mid": 18.97,
+                        "high": 29.99,
+                        "market": 15.9,
+                        "directLow": 17.94
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Marill",
+            "id": "basep-29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.0,
+                        "mid": 2.04,
+                        "high": 20.98,
+                        "market": 3.05,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Togepi",
+            "id": "basep-30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 3.0,
+                        "mid": 5.88,
+                        "high": 7.48,
+                        "market": 5.88,
+                        "directLow": 5.07
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Cleffa",
+            "id": "basep-31",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-31",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 3.22,
+                        "mid": 5.95,
+                        "high": 500.0,
+                        "market": 5.47,
+                        "directLow": 7.18
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Smeargle",
+            "id": "basep-32",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-32",
+                "updatedAt": "2023/03/27",
+                "prices": null
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Scizor",
+            "id": "basep-33",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-33",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 3.87,
+                        "mid": 6.0,
+                        "high": 9.22,
+                        "market": 5.78,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Entei",
+            "id": "basep-34",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-34",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 3.49,
+                        "mid": 9.0,
+                        "high": 89.0,
+                        "market": 8.8,
+                        "directLow": 4.97
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Pichu",
+            "id": "basep-35",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-35",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 18.0,
+                        "mid": 28.98,
+                        "high": 49.0,
+                        "market": 28.28,
+                        "directLow": 28.0
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Igglybuff",
+            "id": "basep-36",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-36",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 3.25,
+                        "mid": 5.24,
+                        "high": 9.0,
+                        "market": 5.05,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Hitmontop",
+            "id": "basep-37",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-37",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 2.49,
+                        "mid": 3.55,
+                        "high": 5.0,
+                        "market": 3.28,
+                        "directLow": 3.37
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Unown [J]",
+            "id": "basep-38",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-38",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 5.0,
+                        "mid": 14.38,
+                        "high": 25.67,
+                        "market": 16.31,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Misdreavus",
+            "id": "basep-39",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-39",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.62,
+                        "mid": 2.63,
+                        "high": 5.29,
+                        "market": 2.82,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Pok\u00e9mon Center",
+            "id": "basep-40",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-40",
+                "updatedAt": "2025/03/21",
+                "prices": {
+                    "normal": {
+                        "low": 750.0,
+                        "mid": 750.0,
+                        "high": 750.0,
+                        "market": 626.65,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Lucky Stadium",
+            "id": "basep-41",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-41",
+                "updatedAt": "2025/03/24",
+                "prices": {
+                    "normal": {
+                        "low": 599.95,
+                        "mid": 599.95,
+                        "high": 599.95,
+                        "market": 620.81,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Pok\u00e9mon Tower",
+            "id": "basep-42",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-42",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 9.0,
+                        "mid": 11.8,
+                        "high": 17.99,
+                        "market": 11.57,
+                        "directLow": 10.77
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Machamp",
+            "id": "basep-43",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-43",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 20.0,
+                        "mid": 27.0,
+                        "high": 44.09,
+                        "market": 20.98,
+                        "directLow": 24.97
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Magmar",
+            "id": "basep-44",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-44",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 9.51,
+                        "mid": 12.19,
+                        "high": 15.49,
+                        "market": 11.28,
+                        "directLow": 9.59
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Scyther",
+            "id": "basep-45",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-45",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 17.37,
+                        "mid": 18.83,
+                        "high": 34.95,
+                        "market": 17.6,
+                        "directLow": 20.0
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Electabuzz",
+            "id": "basep-46",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-46",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 19.9,
+                        "mid": 29.99,
+                        "high": 1153.51,
+                        "market": 15.54,
+                        "directLow": 19.9
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Mew",
+            "id": "basep-47",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-47",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 43.0,
+                        "mid": 49.9,
+                        "high": 55.35,
+                        "market": 50.05,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Articuno",
+            "id": "basep-48",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-48",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 30.0,
+                        "mid": 32.4,
+                        "high": 69.95,
+                        "market": 32.34,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Snorlax",
+            "id": "basep-49",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-49",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 110.0,
+                        "mid": 114.97,
+                        "high": 149.99,
+                        "market": 112.09,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Celebi",
+            "id": "basep-50",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-50",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 25.0,
+                        "mid": 28.69,
+                        "high": 34.97,
+                        "market": 28.66,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Rapidash",
+            "id": "basep-51",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-51",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 16.0,
+                        "mid": 18.44,
+                        "high": 29.99,
+                        "market": 18.24,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Ho-oh",
+            "id": "basep-52",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-52",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 14.0,
+                        "mid": 19.96,
+                        "high": 49.99,
+                        "market": 19.21,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        },
+        {
+            "name": "Suicune",
+            "id": "basep-53",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/basep-53",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 7.99,
+                        "mid": 25.0,
+                        "high": 89.0,
+                        "market": 30.58,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "basep"
+        }
+    ]
+}

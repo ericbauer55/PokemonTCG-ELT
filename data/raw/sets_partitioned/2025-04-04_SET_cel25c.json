@@ -1,0 +1,681 @@
+{
+    "pulled_on": "04/04/2025 20:16:46",
+    "count": 25,
+    "data": [
+        {
+            "name": "Charizard",
+            "id": "cel25c-4_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-4_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 88.0,
+                        "mid": 105.0,
+                        "high": 250.0,
+                        "market": 94.33,
+                        "directLow": 99.5
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Blastoise",
+            "id": "cel25c-2_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-2_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.05,
+                        "mid": 10.0,
+                        "high": 1000.0,
+                        "market": 8.26,
+                        "directLow": 8.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Venusaur",
+            "id": "cel25c-15_A1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-15_A1",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.75,
+                        "mid": 7.5,
+                        "high": 999.99,
+                        "market": 5.69,
+                        "directLow": 6.74
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Here Comes Team Rocket!",
+            "id": "cel25c-15_A2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-15_A2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.25,
+                        "mid": 0.79,
+                        "high": 999.99,
+                        "market": 0.76,
+                        "directLow": 0.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Claydol",
+            "id": "cel25c-15_A4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-15_A4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.1,
+                        "mid": 0.35,
+                        "high": 999.99,
+                        "market": 0.38,
+                        "directLow": 0.26
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Rocket's Zapdos",
+            "id": "cel25c-15_A3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-15_A3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.6,
+                        "mid": 2.01,
+                        "high": 4321.0,
+                        "market": 1.43,
+                        "directLow": 1.86
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Imposter Professor Oak",
+            "id": "cel25c-73_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-73_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.05,
+                        "mid": 0.31,
+                        "high": 999.99,
+                        "market": 0.26,
+                        "directLow": 0.21
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Dark Gyarados",
+            "id": "cel25c-8_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-8_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.72,
+                        "mid": 2.91,
+                        "high": 999.99,
+                        "market": 1.99,
+                        "directLow": 2.78
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Shining Magikarp",
+            "id": "cel25c-66_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-66_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 17.72,
+                        "mid": 24.0,
+                        "high": 1000.0,
+                        "market": 19.37,
+                        "directLow": 21.0
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "_____'s Pikachu",
+            "id": "cel25c-24_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-24_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 10.0,
+                        "mid": 14.0,
+                        "high": 999.99,
+                        "market": 12.14,
+                        "directLow": 11.7
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Cleffa",
+            "id": "cel25c-20_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-20_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.4,
+                        "mid": 0.9,
+                        "high": 999.99,
+                        "market": 0.78,
+                        "directLow": 0.73
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Rocket's Admin.",
+            "id": "cel25c-86_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-86_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.05,
+                        "mid": 0.44,
+                        "high": 999.99,
+                        "market": 0.37,
+                        "directLow": 0.15
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Umbreon \u2605",
+            "id": "cel25c-17_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-17_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 34.26,
+                        "mid": 49.0,
+                        "high": 199.99,
+                        "market": 37.81,
+                        "directLow": 41.69
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Mew ex",
+            "id": "cel25c-88_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-88_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.02,
+                        "mid": 8.0,
+                        "high": 4321.0,
+                        "market": 6.29,
+                        "directLow": 7.74
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Gardevoir ex \u03b4",
+            "id": "cel25c-93_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-93_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.35,
+                        "mid": 4.29,
+                        "high": 999.99,
+                        "market": 3.96,
+                        "directLow": 3.91
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Team Magma's Groudon",
+            "id": "cel25c-9_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-9_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.15,
+                        "mid": 0.93,
+                        "high": 999.99,
+                        "market": 0.95,
+                        "directLow": 0.95
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Luxray GL LV.X",
+            "id": "cel25c-109_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-109_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.7,
+                        "mid": 2.05,
+                        "high": 999.99,
+                        "market": 1.8,
+                        "directLow": 2.1
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Garchomp C LV.X",
+            "id": "cel25c-145_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-145_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.7,
+                        "mid": 3.27,
+                        "high": 999.99,
+                        "market": 3.03,
+                        "directLow": 3.47
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Reshiram",
+            "id": "cel25c-113_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-113_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.79,
+                        "mid": 7.94,
+                        "high": 999.99,
+                        "market": 7.2,
+                        "directLow": 6.96
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Zekrom",
+            "id": "cel25c-114_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-114_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.69,
+                        "mid": 10.96,
+                        "high": 500.0,
+                        "market": 9.47,
+                        "directLow": 10.1
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "cel25c-54_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-54_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.0,
+                        "mid": 7.05,
+                        "high": 999.99,
+                        "market": 6.85,
+                        "directLow": 8.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Xerneas-EX",
+            "id": "cel25c-97_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-97_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.95,
+                        "mid": 3.0,
+                        "high": 999.99,
+                        "market": 3.03,
+                        "directLow": 3.86
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Tapu Lele-GX",
+            "id": "cel25c-60_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-60_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.4,
+                        "mid": 3.99,
+                        "high": 4321.0,
+                        "market": 3.83,
+                        "directLow": 5.05
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "Donphan",
+            "id": "cel25c-107_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-107_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.35,
+                        "mid": 0.99,
+                        "high": 999.99,
+                        "market": 0.68,
+                        "directLow": 0.95
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "cel25c"
+        },
+        {
+            "name": "M Rayquaza-EX",
+            "id": "cel25c-76_A",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-76_A",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 15.75,
+                        "mid": 24.99,
+                        "high": 5000.0,
+                        "market": 20.94,
+                        "directLow": 16.93
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "cel25c"
+        }
+    ]
+}

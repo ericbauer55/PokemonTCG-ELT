@@ -1,0 +1,138 @@
+{
+    "pulled_on": "04/04/2025 20:16:46",
+    "count": 12,
+    "data": [
+        {
+            "name": "Crabrawler",
+            "id": "mcd17-7",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Grubbin",
+            "id": "mcd17-2",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Popplio",
+            "id": "mcd17-4",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Alolan Meowth",
+            "id": "mcd17-8",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Rowlet",
+            "id": "mcd17-1",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Litten",
+            "id": "mcd17-3",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Pikachu",
+            "id": "mcd17-5",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Cosmog",
+            "id": "mcd17-6",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Cutiefly",
+            "id": "mcd17-10",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Alolan Diglett",
+            "id": "mcd17-9",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Pikipek",
+            "id": "mcd17-11",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        },
+        {
+            "name": "Yungoos",
+            "id": "mcd17-12",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd17"
+        }
+    ]
+}

@@ -1,0 +1,2701 @@
+{
+    "pulled_on": "04/04/2025 20:16:43",
+    "count": 101,
+    "data": [
+        {
+            "name": "Snivy",
+            "id": "bwp-BW01",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW01",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.4,
+                        "mid": 0.95,
+                        "high": 5.0,
+                        "market": 1.11,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Tepig",
+            "id": "bwp-BW02",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW02",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 1.5,
+                        "high": 5.0,
+                        "market": 1.57,
+                        "directLow": 2.21
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Oshawott",
+            "id": "bwp-BW03",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW03",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 1.69,
+                        "high": 5.39,
+                        "market": 1.57,
+                        "directLow": 3.55
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Reshiram",
+            "id": "bwp-BW004",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW004",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.85,
+                        "mid": 1.49,
+                        "high": 89.0,
+                        "market": 1.58,
+                        "directLow": 1.03
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Zekrom",
+            "id": "bwp-BW005",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW005",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.5,
+                        "mid": 1.12,
+                        "high": 89.0,
+                        "market": 1.22,
+                        "directLow": 0.71
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Snivy",
+            "id": "bwp-BW06",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW06",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.15,
+                        "mid": 1.0,
+                        "high": 3.57,
+                        "market": 1.32,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Tepig",
+            "id": "bwp-BW07",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW07",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.49,
+                        "mid": 1.0,
+                        "high": 2.66,
+                        "market": 1.05,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Oshawott",
+            "id": "bwp-BW08",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW08",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.65,
+                        "mid": 1.54,
+                        "high": 6.83,
+                        "market": 1.54,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Zoroark",
+            "id": "bwp-BW09",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW09",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.85,
+                        "mid": 1.55,
+                        "high": 7.49,
+                        "market": 1.86,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Axew",
+            "id": "bwp-BW10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.75,
+                        "mid": 1.72,
+                        "high": 4.54,
+                        "market": 1.43,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Pansage",
+            "id": "bwp-BW11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 2.67,
+                        "high": 4.19,
+                        "market": 1.49,
+                        "directLow": 3.55
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Zorua",
+            "id": "bwp-BW12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 10.0,
+                        "mid": 10.5,
+                        "high": 89.0,
+                        "market": 4.77,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Minccino",
+            "id": "bwp-BW13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.14,
+                        "mid": 2.44,
+                        "high": 3.73,
+                        "market": 2.52,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Pansage",
+            "id": "bwp-BW14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 28.29,
+                        "mid": 28.29,
+                        "high": 28.29,
+                        "market": 31.91,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Pidove",
+            "id": "bwp-BW15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 55.0,
+                        "mid": 57.72,
+                        "high": 59.99,
+                        "market": 57.72,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Axew",
+            "id": "bwp-BW16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 70.0,
+                        "mid": 72.5,
+                        "high": 75.0,
+                        "market": 26.0,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Ducklett",
+            "id": "bwp-BW17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.48,
+                        "mid": 0.95,
+                        "high": 4.5,
+                        "market": 0.97,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Darumaka",
+            "id": "bwp-BW18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 5.36,
+                        "high": 11.71,
+                        "market": 4.98,
+                        "directLow": 11.48
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Zoroark",
+            "id": "bwp-BW19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.79,
+                        "mid": 1.77,
+                        "high": 2.99,
+                        "market": 1.77,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Serperior",
+            "id": "bwp-BW20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.64,
+                        "mid": 1.5,
+                        "high": 19.99,
+                        "market": 1.52,
+                        "directLow": 19.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Emboar",
+            "id": "bwp-BW21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.53,
+                        "mid": 2.23,
+                        "high": 89.0,
+                        "market": 2.48,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Samurott",
+            "id": "bwp-BW22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.93,
+                        "mid": 1.55,
+                        "high": 7.5,
+                        "market": 2.73,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Reshiram",
+            "id": "bwp-BW23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.25,
+                        "mid": 1.79,
+                        "high": 10.25,
+                        "market": 3.08,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Zekrom",
+            "id": "bwp-BW24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.99,
+                        "mid": 2.5,
+                        "high": 3.19,
+                        "market": 3.08,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Scraggy",
+            "id": "bwp-BW25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.95,
+                        "mid": 1.17,
+                        "high": 5.0,
+                        "market": 1.09,
+                        "directLow": 4.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Axew",
+            "id": "bwp-BW26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.45,
+                        "mid": 3.18,
+                        "high": 5.99,
+                        "market": 2.79,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Litwick",
+            "id": "bwp-BW27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 11.63,
+                        "mid": 19.96,
+                        "high": 99.99,
+                        "market": 21.79,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Tropical Beach",
+            "id": "bwp-BW28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW28",
+                "updatedAt": "2024/06/28",
+                "prices": {
+                    "normal": {
+                        "low": 350.0,
+                        "mid": 350.0,
+                        "high": 350.0,
+                        "market": 99.99,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Victory Cup",
+            "id": "bwp-BW29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 74.95,
+                        "mid": 80.0,
+                        "high": 84.23,
+                        "market": 80.0,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Victory Cup",
+            "id": "bwp-BW30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 70.0,
+                        "mid": 79.87,
+                        "high": 94.67,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Victory Cup",
+            "id": "bwp-BW31",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW31",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 98.4,
+                        "mid": 99.97,
+                        "high": 133.02,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Victini",
+            "id": "bwp-BW32",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW32",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.48,
+                        "mid": 1.75,
+                        "high": 39.99,
+                        "market": 2.24,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Riolu",
+            "id": "bwp-BW33",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW33",
+                "updatedAt": "2025/01/08",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.99,
+                        "mid": 9.99,
+                        "high": 9.99,
+                        "market": 9.99,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Luxio",
+            "id": "bwp-BW34",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW34",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.99,
+                        "mid": 18.32,
+                        "high": 19.59,
+                        "market": 16.91,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Meowth",
+            "id": "bwp-BW35",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW35",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 4.0,
+                        "mid": 11.0,
+                        "high": 20.99,
+                        "market": 7.25,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Reshiram-EX",
+            "id": "bwp-BW36",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW36",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.66,
+                        "mid": 4.44,
+                        "high": 6.99,
+                        "market": 3.82,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Kyurem-EX",
+            "id": "bwp-BW37",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW37",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.87,
+                        "mid": 2.98,
+                        "high": 9.99,
+                        "market": 2.5,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Zekrom-EX",
+            "id": "bwp-BW38",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW38",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.95,
+                        "mid": 4.07,
+                        "high": 9.51,
+                        "market": 5.42,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Battle City",
+            "id": "bwp-BW39",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW39",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.25,
+                        "mid": 2.04,
+                        "high": 4.99,
+                        "market": 2.32,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Volcarona",
+            "id": "bwp-BW40",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW40",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 8.75,
+                        "mid": 13.85,
+                        "high": 15.0,
+                        "market": 13.29,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Thundurus",
+            "id": "bwp-BW41",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW41",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 0.68,
+                        "mid": 1.0,
+                        "high": 3.49,
+                        "market": 1.05,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Tornadus",
+            "id": "bwp-BW42",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW42",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.2,
+                        "mid": 2.0,
+                        "high": 9.99,
+                        "market": 1.96,
+                        "directLow": null
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Landorus",
+            "id": "bwp-BW43",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW43",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 8.39,
+                        "mid": 10.99,
+                        "high": 14.0,
+                        "market": 14.41,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Kyurem",
+            "id": "bwp-BW44",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW44",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.62,
+                        "mid": 2.56,
+                        "high": 19.99,
+                        "market": 2.43,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Mewtwo-EX",
+            "id": "bwp-BW45",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW45",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.32,
+                        "mid": 6.0,
+                        "high": 19.99,
+                        "market": 6.66,
+                        "directLow": 11.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Darkrai-EX",
+            "id": "bwp-BW46",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW46",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.95,
+                        "mid": 4.48,
+                        "high": 12.63,
+                        "market": 4.72,
+                        "directLow": 4.48
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Rayquaza-EX",
+            "id": "bwp-BW47",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW47",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.99,
+                        "mid": 8.9,
+                        "high": 29.99,
+                        "market": 8.86,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Altaria",
+            "id": "bwp-BW48",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW48",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.26,
+                        "mid": 8.0,
+                        "high": 12.75,
+                        "market": 7.96,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Lilligant",
+            "id": "bwp-BW49",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW49",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 6.46,
+                        "mid": 12.95,
+                        "high": 24.0,
+                        "market": 10.61,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Tropical Beach",
+            "id": "bwp-BW50",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW50",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 400.0,
+                        "mid": 400.0,
+                        "high": 400.0,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Crobat",
+            "id": "bwp-BW51",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW51",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.96,
+                        "mid": 12.88,
+                        "high": 39.99,
+                        "market": 9.15,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Lillipup",
+            "id": "bwp-BW52",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW52",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": null,
+                    "reverseHolofoil": {
+                        "low": 1.19,
+                        "mid": 2.63,
+                        "high": 19.97,
+                        "market": 2.77,
+                        "directLow": 1.57
+                    },
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Flygon",
+            "id": "bwp-BW53",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW53",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.95,
+                        "mid": 11.19,
+                        "high": 14.99,
+                        "market": 12.83,
+                        "directLow": 14.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Pikachu",
+            "id": "bwp-BW54",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW54",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 34.98,
+                        "mid": 49.0,
+                        "high": 86.0,
+                        "market": 48.09,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Elgyem",
+            "id": "bwp-BW55",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW55",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 2.33,
+                        "mid": 3.11,
+                        "high": 3.45,
+                        "market": 3.6,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Empoleon",
+            "id": "bwp-BW56",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW56",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.1,
+                        "mid": 2.78,
+                        "high": 4.99,
+                        "market": 3.15,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Haxorus",
+            "id": "bwp-BW57",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW57",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.0,
+                        "mid": 10.08,
+                        "high": 15.77,
+                        "market": 10.76,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Black Kyurem",
+            "id": "bwp-BW58",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW58",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.75,
+                        "mid": 11.07,
+                        "high": 21.92,
+                        "market": 14.97,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "White Kyurem",
+            "id": "bwp-BW59",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW59",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.85,
+                        "mid": 4.53,
+                        "high": 18.9,
+                        "market": 12.9,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Keldeo",
+            "id": "bwp-BW60",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW60",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.5,
+                        "mid": 3.18,
+                        "high": 8.27,
+                        "market": 4.83,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Keldeo-EX",
+            "id": "bwp-BW61",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW61",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.5,
+                        "mid": 1.5,
+                        "high": 3.99,
+                        "market": 1.39,
+                        "directLow": 1.72
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Black Kyurem-EX",
+            "id": "bwp-BW62",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW62",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.75,
+                        "mid": 3.07,
+                        "high": 6.78,
+                        "market": 4.64,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "White Kyurem-EX",
+            "id": "bwp-BW63",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW63",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.18,
+                        "mid": 3.97,
+                        "high": 9.99,
+                        "market": 4.15,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Drifblim",
+            "id": "bwp-BW64",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW64",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.36,
+                        "mid": 3.18,
+                        "high": 4.99,
+                        "market": 1.73,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Jigglypuff",
+            "id": "bwp-BW65",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW65",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 15.0,
+                        "mid": 20.79,
+                        "high": 22.49,
+                        "market": 18.12,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Ninetales",
+            "id": "bwp-BW66",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW66",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.82,
+                        "mid": 7.53,
+                        "high": 12.5,
+                        "market": 8.77,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Ampharos",
+            "id": "bwp-BW67",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW67",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.0,
+                        "mid": 6.9,
+                        "high": 10.0,
+                        "market": 7.89,
+                        "directLow": 7.24
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Meloetta",
+            "id": "bwp-BW68",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW68",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.5,
+                        "mid": 0.95,
+                        "high": 2.09,
+                        "market": 0.96,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Meloetta",
+            "id": "bwp-BW69",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW69",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.26,
+                        "mid": 0.5,
+                        "high": 6.83,
+                        "market": 0.58,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Virizion",
+            "id": "bwp-BW70",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW70",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.95,
+                        "mid": 1.24,
+                        "high": 2.07,
+                        "market": 1.77,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Terrakion",
+            "id": "bwp-BW71",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW71",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.7,
+                        "mid": 1.17,
+                        "high": 2.5,
+                        "market": 2.35,
+                        "directLow": 1.23
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Cobalion",
+            "id": "bwp-BW72",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW72",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.6,
+                        "mid": 0.99,
+                        "high": 2.02,
+                        "market": 1.97,
+                        "directLow": 2.02
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Darkrai",
+            "id": "bwp-BW73",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW73",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 50.0,
+                        "mid": 85.73,
+                        "high": 96.0,
+                        "market": 57.11,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Giratina",
+            "id": "bwp-BW74",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW74",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 44.99,
+                        "mid": 50.0,
+                        "high": 89.95,
+                        "market": 58.7,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Metagross",
+            "id": "bwp-BW75",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW75",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 17.99,
+                        "mid": 18.41,
+                        "high": 19.75,
+                        "market": 18.42,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Electrode",
+            "id": "bwp-BW76",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW76",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.58,
+                        "mid": 6.49,
+                        "high": 9.41,
+                        "market": 16.79,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Pikachu",
+            "id": "bwp-BW77",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Raichu",
+            "id": "bwp-BW78",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Landorus",
+            "id": "bwp-BW79",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW79",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 150.0,
+                        "mid": 197.99,
+                        "high": 299.99,
+                        "market": 100.0,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Druddigon",
+            "id": "bwp-BW80",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW80",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.2,
+                        "mid": 1.25,
+                        "high": 1.54,
+                        "market": 2.28,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Thundurus-EX",
+            "id": "bwp-BW81",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW81",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.45,
+                        "mid": 2.27,
+                        "high": 89.0,
+                        "market": 2.16,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Deoxys-EX",
+            "id": "bwp-BW82",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW82",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.99,
+                        "mid": 6.48,
+                        "high": 25.0,
+                        "market": 8.33,
+                        "directLow": 6.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Lugia-EX",
+            "id": "bwp-BW83",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW83",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.0,
+                        "mid": 11.93,
+                        "high": 21.82,
+                        "market": 13.31,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Porygon-Z",
+            "id": "bwp-BW84",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW84",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.94,
+                        "mid": 9.99,
+                        "high": 19.98,
+                        "market": 8.78,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Lucario",
+            "id": "bwp-BW85",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW85",
+                "updatedAt": "2024/11/17",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 134.95,
+                        "mid": 134.95,
+                        "high": 134.95,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Genesect",
+            "id": "bwp-BW86",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW86",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 126.93,
+                        "mid": 170.21,
+                        "high": 213.49,
+                        "market": 100.0,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Leafeon",
+            "id": "bwp-BW87",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW87",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 38.99,
+                        "mid": 39.1,
+                        "high": 75.0,
+                        "market": 23.09,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Flareon",
+            "id": "bwp-BW88",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW88",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 18.53,
+                        "mid": 41.12,
+                        "high": 70.0,
+                        "market": 22.07,
+                        "directLow": 44.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Vaporeon",
+            "id": "bwp-BW89",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW89",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 24.48,
+                        "mid": 27.76,
+                        "high": 70.0,
+                        "market": 22.37,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Glaceon",
+            "id": "bwp-BW90",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW90",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 20.68,
+                        "mid": 34.22,
+                        "high": 60.85,
+                        "market": 25.41,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Jolteon",
+            "id": "bwp-BW91",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW91",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 22.67,
+                        "mid": 37.84,
+                        "high": 105.0,
+                        "market": 23.54,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Espeon",
+            "id": "bwp-BW92",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW92",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 22.93,
+                        "mid": 37.3,
+                        "high": 60.31,
+                        "market": 32.71,
+                        "directLow": 37.12
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Umbreon",
+            "id": "bwp-BW93",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW93",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 50.1,
+                        "mid": 54.0,
+                        "high": 66.88,
+                        "market": 58.92,
+                        "directLow": 66.88
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Eevee",
+            "id": "bwp-BW94",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW94",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 16.86,
+                        "mid": 29.05,
+                        "high": 61.07,
+                        "market": 37.58,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Champions Festival",
+            "id": "bwp-BW95",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW95",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 250.0,
+                        "mid": 287.5,
+                        "high": 324.99,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Tornadus-EX",
+            "id": "bwp-BW96",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW96",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 21.99,
+                        "mid": 28.5,
+                        "high": 39.99,
+                        "market": 11.46,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Eevee",
+            "id": "bwp-BW97",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW97",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 464.95,
+                        "mid": 464.95,
+                        "high": 464.95,
+                        "market": 239.98,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Mew",
+            "id": "bwp-BW98",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW98",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 167.74,
+                        "mid": 208.86,
+                        "high": 249.98,
+                        "market": null,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Genesect",
+            "id": "bwp-BW99",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW99",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.99,
+                        "mid": 1.7,
+                        "high": 6.0,
+                        "market": 2.06,
+                        "directLow": 1.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "N",
+            "id": "bwp-BW100",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW100",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.23,
+                        "mid": 8.86,
+                        "high": 16.75,
+                        "market": 7.44,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        },
+        {
+            "name": "Genesect",
+            "id": "bwp-BW101",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/bwp-BW101",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 70.0,
+                        "mid": 247.5,
+                        "high": 299.99,
+                        "market": 66.0,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "bwp"
+        }
+    ]
+}

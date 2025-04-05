@@ -1,0 +1,138 @@
+{
+    "pulled_on": "04/04/2025 20:16:46",
+    "count": 12,
+    "data": [
+        {
+            "name": "Horsea",
+            "id": "mcd18-3",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Psyduck",
+            "id": "mcd18-2",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Growlithe",
+            "id": "mcd18-1",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Pikachu",
+            "id": "mcd18-4",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Slowpoke",
+            "id": "mcd18-5",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Machop",
+            "id": "mcd18-6",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Cubone",
+            "id": "mcd18-7",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Chansey",
+            "id": "mcd18-10",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Magnemite",
+            "id": "mcd18-8",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Dratini",
+            "id": "mcd18-9",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Eevee",
+            "id": "mcd18-11",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        },
+        {
+            "name": "Porygon",
+            "id": "mcd18-12",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd18"
+        }
+    ]
+}

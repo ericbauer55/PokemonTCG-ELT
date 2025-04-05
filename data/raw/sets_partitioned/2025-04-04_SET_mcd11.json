@@ -1,0 +1,330 @@
+{
+    "pulled_on": "04/04/2025 20:16:43",
+    "count": 12,
+    "data": [
+        {
+            "name": "Snivy",
+            "id": "mcd11-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-1",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.59,
+                        "mid": 3.5,
+                        "high": 5.25,
+                        "market": 3.92,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Maractus",
+            "id": "mcd11-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.87,
+                        "mid": 4.83,
+                        "high": 6.02,
+                        "market": 4.57,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Tepig",
+            "id": "mcd11-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.5,
+                        "mid": 4.1,
+                        "high": 5.47,
+                        "market": 3.4,
+                        "directLow": 4.19
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Oshawott",
+            "id": "mcd11-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 3.53,
+                        "mid": 4.0,
+                        "high": 5.52,
+                        "market": 4.73,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Alomomola",
+            "id": "mcd11-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-5",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.71,
+                        "mid": 3.0,
+                        "high": 5.0,
+                        "market": 2.78,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Blitzle",
+            "id": "mcd11-6",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-6",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.89,
+                        "mid": 2.87,
+                        "high": 5.97,
+                        "market": 3.11,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Munna",
+            "id": "mcd11-7",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-7",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.24,
+                        "mid": 2.99,
+                        "high": 3.55,
+                        "market": 3.05,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Sandile",
+            "id": "mcd11-8",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-8",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.24,
+                        "mid": 2.48,
+                        "high": 5.5,
+                        "market": 2.63,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Zorua",
+            "id": "mcd11-9",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-9",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 4.44,
+                        "high": 6.89,
+                        "market": 4.44,
+                        "directLow": 4.62
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Klink",
+            "id": "mcd11-10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.81,
+                        "mid": 1.58,
+                        "high": 16.45,
+                        "market": 1.85,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Pidove",
+            "id": "mcd11-11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.94,
+                        "mid": 2.72,
+                        "high": 5.5,
+                        "market": 2.78,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        },
+        {
+            "name": "Audino",
+            "id": "mcd11-12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/mcd11-12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 3.23,
+                        "high": 5.0,
+                        "market": 2.37,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "mcd11"
+        }
+    ]
+}

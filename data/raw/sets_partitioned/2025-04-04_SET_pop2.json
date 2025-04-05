@@ -1,0 +1,501 @@
+{
+    "pulled_on": "04/04/2025 20:16:42",
+    "count": 17,
+    "data": [
+        {
+            "name": "Entei",
+            "id": "pop2-1",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-1",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 9.76,
+                        "mid": 10.42,
+                        "high": 25.0,
+                        "market": 12.88,
+                        "directLow": null
+                    },
+                    "holofoil": {
+                        "low": 9.7,
+                        "mid": 18.28,
+                        "high": 29.99,
+                        "market": 16.92,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Pidgeot",
+            "id": "pop2-2",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-2",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.25,
+                        "mid": 2.71,
+                        "high": 89.0,
+                        "market": 3.39,
+                        "directLow": null
+                    },
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 2.69,
+                        "high": 5.99,
+                        "market": 3.25,
+                        "directLow": 4.47
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Raikou",
+            "id": "pop2-3",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-3",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 6.99,
+                        "mid": 17.59,
+                        "high": 25.0,
+                        "market": 17.55,
+                        "directLow": null
+                    },
+                    "holofoil": {
+                        "low": 10.61,
+                        "mid": 16.43,
+                        "high": 23.23,
+                        "market": 13.67,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Suicune",
+            "id": "pop2-4",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-4",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 7.05,
+                        "mid": 20.95,
+                        "high": 24.68,
+                        "market": 15.17,
+                        "directLow": null
+                    },
+                    "holofoil": {
+                        "low": 18.0,
+                        "mid": 22.48,
+                        "high": 24.97,
+                        "market": 24.06,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Tauros",
+            "id": "pop2-5",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-5",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.8,
+                        "mid": 3.21,
+                        "high": 4.47,
+                        "market": 2.92,
+                        "directLow": null
+                    },
+                    "holofoil": {
+                        "low": 0.65,
+                        "mid": 1.2,
+                        "high": 4.27,
+                        "market": 1.41,
+                        "directLow": 1.34
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Venusaur",
+            "id": "pop2-6",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-6",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 9.0,
+                        "mid": 13.91,
+                        "high": 15.45,
+                        "market": 14.71,
+                        "directLow": null
+                    },
+                    "holofoil": {
+                        "low": 8.15,
+                        "mid": 24.03,
+                        "high": 89.0,
+                        "market": 22.5,
+                        "directLow": 19.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Ivysaur",
+            "id": "pop2-7",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-7",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 11.48,
+                        "mid": 15.2,
+                        "high": 27.0,
+                        "market": 12.58,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Mr. Briney's Compassion",
+            "id": "pop2-8",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-8",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 3.82,
+                        "mid": 4.49,
+                        "high": 49.83,
+                        "market": 4.5,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Multi Technical Machine 01",
+            "id": "pop2-9",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-9",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.95,
+                        "mid": 2.13,
+                        "high": 2.36,
+                        "market": 2.36,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Pok\u00e9mon Park",
+            "id": "pop2-10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 4.62,
+                        "mid": 7.0,
+                        "high": 9.15,
+                        "market": 6.9,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "TV Reporter",
+            "id": "pop2-11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 1.79,
+                        "mid": 2.22,
+                        "high": 2.68,
+                        "market": 2.23,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Bulbasaur",
+            "id": "pop2-12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 6.7,
+                        "mid": 8.0,
+                        "high": 10.49,
+                        "market": 8.45,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Cacnea",
+            "id": "pop2-13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.3,
+                        "mid": 0.56,
+                        "high": 3.0,
+                        "market": 0.68,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Luvdisc",
+            "id": "pop2-14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.46,
+                        "mid": 0.83,
+                        "high": 2.99,
+                        "market": 0.82,
+                        "directLow": 0.75
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Phanpy",
+            "id": "pop2-15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 0.74,
+                        "mid": 1.2,
+                        "high": 89.0,
+                        "market": 1.33,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Pikachu",
+            "id": "pop2-16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-16",
+                "updatedAt": "2025/04/02",
+                "prices": {
+                    "normal": {
+                        "low": 8.49,
+                        "mid": 8.65,
+                        "high": 8.81,
+                        "market": 8.06,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        },
+        {
+            "name": "Celebi ex",
+            "id": "pop2-17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/pop2-17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": {
+                        "low": 31.99,
+                        "mid": 39.0,
+                        "high": 99.99,
+                        "market": 11.18,
+                        "directLow": null
+                    },
+                    "holofoil": null,
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "pop2"
+        }
+    ]
+}

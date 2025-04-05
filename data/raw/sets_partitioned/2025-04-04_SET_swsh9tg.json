@@ -1,0 +1,816 @@
+{
+    "pulled_on": "04/04/2025 20:16:46",
+    "count": 30,
+    "data": [
+        {
+            "name": "Flareon",
+            "id": "swsh9tg-TG01",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG01",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.0,
+                        "mid": 10.17,
+                        "high": 999.99,
+                        "market": 8.48,
+                        "directLow": 10.09
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Vaporeon",
+            "id": "swsh9tg-TG02",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG02",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.45,
+                        "mid": 12.53,
+                        "high": 100.0,
+                        "market": 11.37,
+                        "directLow": 12.53
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Octillery",
+            "id": "swsh9tg-TG03",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG03",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.57,
+                        "mid": 2.06,
+                        "high": 999.99,
+                        "market": 1.75,
+                        "directLow": 2.09
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Jolteon",
+            "id": "swsh9tg-TG04",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG04",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 6.0,
+                        "mid": 9.5,
+                        "high": 100.0,
+                        "market": 7.09,
+                        "directLow": 8.84
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Zekrom",
+            "id": "swsh9tg-TG05",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG05",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 9.0,
+                        "mid": 12.72,
+                        "high": 999.0,
+                        "market": 10.3,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Dusknoir",
+            "id": "swsh9tg-TG06",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG06",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.55,
+                        "mid": 2.19,
+                        "high": 999.99,
+                        "market": 1.94,
+                        "directLow": 2.19
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Dedenne",
+            "id": "swsh9tg-TG07",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG07",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.85,
+                        "mid": 3.92,
+                        "high": 999.99,
+                        "market": 3.5,
+                        "directLow": 3.5
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Alcremie",
+            "id": "swsh9tg-TG08",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG08",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 2.0,
+                        "high": 999.99,
+                        "market": 1.9,
+                        "directLow": 1.83
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Ariados",
+            "id": "swsh9tg-TG09",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG09",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.5,
+                        "mid": 1.5,
+                        "high": 999.99,
+                        "market": 1.41,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Houndoom",
+            "id": "swsh9tg-TG10",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG10",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.7,
+                        "mid": 2.5,
+                        "high": 999.99,
+                        "market": 2.02,
+                        "directLow": 2.25
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Eevee",
+            "id": "swsh9tg-TG11",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG11",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 6.5,
+                        "mid": 9.25,
+                        "high": 999.99,
+                        "market": 8.29,
+                        "directLow": null
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Oranguru",
+            "id": "swsh9tg-TG12",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG12",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.8,
+                        "mid": 2.0,
+                        "high": 999.99,
+                        "market": 1.93,
+                        "directLow": 2.0
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Boltund V",
+            "id": "swsh9tg-TG13",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG13",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.0,
+                        "mid": 10.0,
+                        "high": 38.23,
+                        "market": 8.69,
+                        "directLow": 13.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": null
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Sylveon V",
+            "id": "swsh9tg-TG14",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG14",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 38.0,
+                        "mid": 44.99,
+                        "high": 149.99,
+                        "market": 42.6,
+                        "directLow": 42.72
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Sylveon VMAX",
+            "id": "swsh9tg-TG15",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG15",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 43.0,
+                        "mid": 58.2,
+                        "high": 169.0,
+                        "market": 51.64,
+                        "directLow": 53.79
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Mimikyu V",
+            "id": "swsh9tg-TG16",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG16",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 39.2,
+                        "mid": 53.8,
+                        "high": 150.0,
+                        "market": 44.71,
+                        "directLow": 58.93
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Mimikyu VMAX",
+            "id": "swsh9tg-TG17",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG17",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 33.0,
+                        "mid": 38.25,
+                        "high": 79.95,
+                        "market": 38.08,
+                        "directLow": 34.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Single Strike Urshifu V",
+            "id": "swsh9tg-TG18",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG18",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.66,
+                        "mid": 4.57,
+                        "high": 999.99,
+                        "market": 3.98,
+                        "directLow": 3.97
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Single Strike Urshifu VMAX",
+            "id": "swsh9tg-TG19",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG19",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.0,
+                        "mid": 7.6,
+                        "high": 999.99,
+                        "market": 6.99,
+                        "directLow": 6.95
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Rapid Strike Urshifu V",
+            "id": "swsh9tg-TG20",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG20",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.0,
+                        "mid": 3.99,
+                        "high": 89.0,
+                        "market": 3.32,
+                        "directLow": 6.48
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Rapid Strike Urshifu VMAX",
+            "id": "swsh9tg-TG21",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG21",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 7.71,
+                        "mid": 9.64,
+                        "high": 89.0,
+                        "market": 8.63,
+                        "directLow": 7.89
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Umbreon V",
+            "id": "swsh9tg-TG22",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG22",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 41.0,
+                        "mid": 53.95,
+                        "high": 111.11,
+                        "market": 46.68,
+                        "directLow": 46.68
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Umbreon VMAX",
+            "id": "swsh9tg-TG23",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG23",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 63.72,
+                        "mid": 83.85,
+                        "high": 4321.0,
+                        "market": 69.76,
+                        "directLow": 79.27
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Acerola's Premonition",
+            "id": "swsh9tg-TG24",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG24",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 4.99,
+                        "mid": 8.99,
+                        "high": 37.0,
+                        "market": 9.41,
+                        "directLow": 8.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Caf\u00e9 Master",
+            "id": "swsh9tg-TG25",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG25",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.98,
+                        "mid": 1.57,
+                        "high": 999.99,
+                        "market": 1.44,
+                        "directLow": 1.88
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Gloria",
+            "id": "swsh9tg-TG26",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG26",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 5.1,
+                        "mid": 6.59,
+                        "high": 89.0,
+                        "market": 6.23,
+                        "directLow": 9.69
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Rapid Strike Style Mustard",
+            "id": "swsh9tg-TG27",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG27",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 1.0,
+                        "mid": 1.73,
+                        "high": 999.99,
+                        "market": 1.56,
+                        "directLow": 1.59
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Single Strike Style Mustard",
+            "id": "swsh9tg-TG28",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG28",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 0.64,
+                        "mid": 1.49,
+                        "high": 999.99,
+                        "market": 1.27,
+                        "directLow": 1.99
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Single Strike Urshifu VMAX",
+            "id": "swsh9tg-TG29",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG29",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.24,
+                        "mid": 4.34,
+                        "high": 19.95,
+                        "market": 4.27,
+                        "directLow": 5.76
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        },
+        {
+            "name": "Rapid Strike Urshifu VMAX",
+            "id": "swsh9tg-TG30",
+            "tcgplayer": {
+                "url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG30",
+                "updatedAt": "2025/04/04",
+                "prices": {
+                    "normal": null,
+                    "holofoil": {
+                        "low": 2.28,
+                        "mid": 4.78,
+                        "high": 999.99,
+                        "market": 4.62,
+                        "directLow": 6.49
+                    },
+                    "reverseHolofoil": null,
+                    "firstEditionHolofoil": null,
+                    "firstEditionNormal": null
+                }
+            },
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "swsh9tg"
+        }
+    ]
+}
