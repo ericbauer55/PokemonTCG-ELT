@@ -1,0 +1,116 @@
+{
+    "pulled_on": "04/04/2025 20:57:10",
+    "count": 10,
+    "data": [
+        {
+            "name": "Electrike",
+            "id": "tk1b-1",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Latios",
+            "id": "tk1b-2",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Linoone",
+            "id": "tk1b-3",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Magnemite",
+            "id": "tk1b-4",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Magneton",
+            "id": "tk1b-5",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Pikachu",
+            "id": "tk1b-6",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Zigzagoon",
+            "id": "tk1b-7",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": null,
+                "standard": null
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Potion",
+            "id": "tk1b-8",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Energy Search",
+            "id": "tk1b-9",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk1b"
+        },
+        {
+            "name": "Lightning Energy",
+            "id": "tk1b-10",
+            "tcgplayer": null,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal",
+                "standard": "Legal"
+            },
+            "set.id": "tk1b"
+        }
+    ]
+}

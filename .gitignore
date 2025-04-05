@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual Environment
+venv/*
+
+# Sensitive Data (API Keys, PII, etc.)
+sensitive_config/*
+
 # Distribution / packaging
 .Python
 build/

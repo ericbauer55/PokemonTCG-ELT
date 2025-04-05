@@ -45,6 +45,7 @@ The complexity of this scraping approach depends on whether the website dynamica
 
 ### Data Source Summary:
 - Pokemon TCG API: [Cards, Sets & Prices](https://docs.pokemontcg.io/)
+- Pokemon General API: [Game-derived Metadata](https://pokeapi.co)
 - LimitlessTCG (Scraper): [Pokemon Deck Lists](https://limitlesstcg.com/decks/lists)
 - TCG Player (Scraper/Manual): [Set Pull Rates](https://infinite.tcgplayer.com/article/Pok%C3%A9mon-TCG-Prismatic-Evolutions-Pull-Rates/d94889ea-f76a-4a13-b74d-5b0b071220a7/)
 
